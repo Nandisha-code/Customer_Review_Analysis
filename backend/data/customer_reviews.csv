@@ -1,0 +1,1231 @@
+review_id,product_name,category,rating,review_text,true_sentiment,reviewer_age,helpful_votes,
+1 Laptop,,Books,,5 Super happy wit,h,Positive,35,45
+2 Laptop,,Home & Kitchen,,5 Works like a ch,a,Positive,61,16
+3 Jeans,,Beauty,,5 Fantastic produ,c,Positive,27,41
+,4 Blender,Sports,,5 Works like a ch,a,Positive,22,11
+,5 Yoga Mat,Books,,4 Works like a ch,a,Positive,26,47
+6 Jeans,,Electronics,,4 Best purchase I Positive,,19,45,
+,7 Yoga Mat,Clothing,,4 The product is d,u,Positive,51,26
+,8 Coffee Maker,Clothing,,4 Best purchase I Positive,,55,47,
+,9 Blender,Electronics,,4 The product is d,u,Positive,48,7
+10 Shampoo,,Beauty,,5 Excellent build,q,Positive,27,22
+,11 Face Cream,Clothing,,5 Fantastic produ,c,Positive,29,41
+12 Shampoo,,Clothing,,5 Great value for,m,Positive,53,48
+13 Yoga Mat,,Electronics,,4 Outstanding cu,st,Positive,38,28
+,14 Headphones,Beauty,,5 Best purchase I Positive,,64,49,
+,15 Coffee Maker,Beauty,,4 Excellent build,q,Positive,23,19
+,16 Headphones,Electronics,5,,Positive,20,15,
+17 Blender,,Beauty,,4 Amazing quality Positive,,27,16,
+18 Shampoo,,Beauty,,4 Fantastic produ,c,Positive,22,15
+19 Yoga Mat,,Books,,4 Outstanding cu,st,Positive,63,18
+,20 Python Guide,Books,,5 Super happy wit,h,Positive,43,7
+21 Blender,,Electronics,,5 Great value for,m,Positive,38,37
+22 Blender,,Home & Kitchen,,5 Amazing quality Positive,,62,37,
+,23 Python Guide,Clothing,,4 The product is d,u,Positive,43,28
+,24 Coffee Maker,Books,,4 Outstanding cu,st,Positive,55,40
+25 Yoga Mat,,Clothing,,5 Amazing quality Positive,,61,35,
+26 Yoga Mat,,Sports,,4 Fantastic produ,c,Positive,43,25
+27 Dumbbells,,Electronics,,5 Works like a ch,a,Positive,25,30
+,28 Headphones,Home & Kitchen,4,Excellent build q,Positive,22,43,
+29 Blender,,Sports,,5 Amazing quality Positive,,32,11,
+30 Blender,,Sports,,4 Fantastic produ,c,Positive,33,16
+31 Novel,,Beauty,,5 Excellent build,q,Positive,18,14
+,32 Face Cream,Sports,,4 Absolutely love,t,Positive,33,8
+33 Blender,,Electronics,,5 Excellent build,q,Positive,54,38
+34 T-Shirt,,Books,,5 Works like a ch,a,Positive,20,41
+,35 Face Cream,Electronics,,5 Great value for,m,Positive,64,47
+36 T-Shirt,,Books,,Great value for m,Positive,48,11,
+37 Yoga Mat,,Sports,,4 Fantastic produ,c,Positive,30,31
+,38 Face Cream,Sports,,5 Excellent build,q,Positive,33,24
+39 Blender,,Home & Kitchen,,5 Works like a ch,a,Positive,60,38
+,40 Python Guide,Books,,5 Absolutely love,t,Positive,38,17
+,41 Headphones,Sports,,5 Super happy wit,h,Positive,19,14
+42 T-Shirt,,Beauty,,4 Great value for,m,Positive,44,31
+43 Dumbbells,,Clothing,,5 Great value for,m,Positive,55,5
+,44 Face Cream,Home & Kitchen,,5 Best purchase I Positive,,43,43,
+45 Blender,,Electronics,,4 Absolutely love,t,Positive,55,42
+,46 Face Cream,Home & Kitchen,,4 Super happy wit,h,Positive,63,34
+47 Blender,,Clothing,,5 Fantastic produ,c,Positive,42,33
+48 Blender,,Books,,4 Great value for,m,Positive,28,37
+49 Blender,,Electronics,,4 Super happy wit,h,Positive,25,4
+50 Novel,,Electronics,,4 Outstanding cu,st,Positive,25,17
+,51 Headphones,Books,,4 Super happy wit,h,Positive,50,15
+,52 Python Guide,Home & Kitchen,5,Outstanding cust,Positive,24,7,
+,53 Python Guide,Sports,,5 Great value for,m,Positive,55,24
+,54 Face Cream,Home & Kitchen,,5 Amazing quality Positive,,38,31,
+,55 Face Cream,Clothing,,5 Excellent build,q,Positive,25,25
+56 Blender,,Beauty,,4 Outstanding cu,st,Positive,38,21
+57 Novel,,Sports,,5 Fantastic produ,c,Positive,37,30
+58 Blender,,Home & Kitchen,,5 Excellent build,q,Positive,25,42
+59 Novel,,Beauty,,5 Absolutely love,t,Positive,63,9
+60 Blender,,Beauty,,5 Excellent build,q,Positive,48,11
+61 T-Shirt,,Books,,4 Great value for,m,Positive,46,27
+62 T-Shirt,,Clothing,,5 Works like a ch,a,Positive,26,5
+63 Yoga Mat,,Clothing,,4 Best purchase I Positive,,32,19,
+64 Blender,,Clothing,,4 Works like a ch,a,Positive,47,4
+,65 Headphones,Sports,4,,Positive,43,22,
+66 Dumbbells,,Electronics,,4 Absolutely love,t,Positive,27,8
+67 Yoga Mat,,Sports,,4 Super happy wit,h,Positive,46,28
+,68 Face Cream,Home & Kitchen,,4 Absolutely love,t,Positive,33,15
+,69 Coffee Maker,Beauty,,5 Works like a ch,a,Positive,53,45
+70 Blender,,Beauty,,4 Absolutely love,t,Positive,37,21
+71 Shampoo,,Electronics,,5 The product is d,u,Positive,62,7
+72 T-Shirt,,Home & Kitchen,,5 Absolutely love,t,Positive,54,19
+,73 Coffee Maker,Electronics,,4 Amazing quality Positive,,39,13,
+74 Novel,,Beauty,,4 The product is d,u,Positive,24,38
+,75 Coffee Maker,Sports,,5 Outstanding cu,st,Positive,40,36
+,76 Headphones,Clothing,,5 Works like a ch,a,Positive,58,49
+77 Blender,,Beauty,,4 The product is d,u,Positive,57,33
+,78 Python Guide,Books,,5 Outstanding cu,st,Positive,46,10
+,79 Coffee Maker,Clothing,,4 Absolutely love,t,Positive,33,39
+,80 Python Guide,Beauty,,4 The product is d,u,Positive,55,32
+81 Novel,,Sports,,4 Outstanding cu,st,Positive,45,30
+82 Yoga Mat,,Electronics,,4 Outstanding cu,st,Positive,55,43
+,83 Python Guide,Clothing,,5 Great value for,m,Positive,48,33
+84 Yoga Mat,,Sports,,4 Super happy wit,h,Positive,31,49
+85 T-Shirt,,Home & Kitchen,,4 Absolutely love,t,Positive,50,6
+86 Dumbbells,,Books,,5 Super happy wit,h,Positive,26,48
+87 Blender,,Clothing,,4 Excellent build,q,Positive,44,22
+,88 Coffee Maker,Electronics,,5 Super happy wit,h,Positive,41,45
+89 T-Shirt,,Home & Kitchen,,4 Great value for,m,Positive,30,6
+90 T-Shirt,,Sports,,4 Fantastic produ,c,Positive,43,24
+91 Shampoo,,Books,,5 Absolutely love,t,Positive,46,2
+92 Jeans,,Electronics,,5 Best purchase I Positive,,60,37,
+93 Laptop,,Sports,,4 Super happy wit,h,Positive,45,19
+,94 Headphones,Sports,,5 Great value for,m,Positive,45,33
+95 Yoga Mat,,Clothing,,4 Great value for,m,Positive,25,48
+96 Dumbbells,,Clothing,,5 Works like a ch,a,Positive,40,43
+97 Jeans,,Electronics,,5 Absolutely love,t,Positive,46,43
+98 Laptop,,Beauty,,5 The product is d,u,Positive,22,29
+99 Dumbbells,,Beauty,,5 Great value for,m,Positive,59,16
+100 Headphones,,Sports,,4 Excellent build,q,Positive,24,9
+101 Yoga Mat,,Clothing,,4 Amazing quality Positive,,59,34,
+102 Blender,,Books,,5 Amazing quality Positive,,53,19,
+103 Headphones,,Books,,4 Great value for,m,Positive,58,17
+104 Coffee Maker,,Sports,,5 Outstanding cu,st,Positive,44,44
+105 T-Shirt,,Clothing,,5 Best purchase I Positive,,63,43,
+106 Shampoo,,Electronics,,5 Works like a ch,a,Positive,19,26
+107 Laptop,,Electronics,,5 Great value for,m,Positive,42,48
+108 Laptop,,Electronics,,5 Great value for,m,Positive,26,35
+109 Dumbbells,,Books,,4 The product is d,u,Positive,44,22
+110 Shampoo,,Clothing,,5 The product is d,u,Positive,18,31
+111 Laptop,,Clothing,,4 Amazing quality Positive,,40,9,
+112 Shampoo,,Books,,5 Absolutely love,t,Positive,27,10
+113 Yoga Mat,,Electronics,,4 Absolutely love,t,Positive,59,37
+114 Coffee Maker,,Electronics,,4 Great value for,m,Positive,42,5
+115 Headphones,,Sports,,5 Absolutely love,t,Positive,20,40
+116 T-Shirt,,Beauty,,4 Best purchase I Positive,,23,46,
+117 Coffee Maker,,Home & Kitchen,4,Excellent build q,Positive,23,33,
+118 Jeans,,Beauty,,5 Absolutely love,t,Positive,19,35
+119 Blender,,Clothing,,5 Great value for,m,Positive,35,36
+120 Shampoo,,Clothing,,4 Best purchase I Positive,,40,16,
+121 Python Guide,,Clothing,,4 Absolutely love,t,Positive,19,39
+122 Coffee Maker,,Beauty,,5 Amazing quality Positive,,29,39,
+123 Dumbbells,,Home & Kitchen,,4 The product is d,u,Positive,39,11
+124 Jeans,,Sports,,4 Works like a ch,a,Positive,54,20
+125 T-Shirt,,Beauty,,5 The product is d,u,Positive,37,39
+126 Dumbbells,,Home & Kitchen,,4 Fantastic produ,c,Positive,56,18
+127 Dumbbells,,Electronics,,5 Works like a ch,a,Positive,41,2
+128 Python Guide,,Electronics,,4 The product is d,u,Positive,37,17
+129 Shampoo,,Clothing,,4 Fantastic produ,c,Positive,18,18
+130 Python Guide,,Books,,5 Amazing quality Positive,,18,46,
+131 Coffee Maker,,Clothing,,4 Fantastic produ,c,Positive,34,5
+132 Dumbbells,,Books,,5 Outstanding cu,st,Positive,18,15
+133 Laptop,,Home & Kitchen,,4 Works like a ch,a,Positive,62,7
+134 Face Cream,,Electronics,,5 Great value for,m,Positive,47,47
+135 T-Shirt,,Beauty,,5 Amazing quality Positive,,58,17,
+136 Laptop,,Books,,4 Super happy wit,h,Positive,64,47
+137 T-Shirt,,Home & Kitchen,,5 Excellent build,q,Positive,20,42
+138 Shampoo,,Electronics,,4 The product is d,u,Positive,63,38
+139 Face Cream,,Beauty,,5 Absolutely love,t,Positive,28,48
+140 Blender,,Books,,5 The product is d,u,Positive,41,48
+141 Face Cream,,Clothing,,4 Best purchase I Positive,,39,11,
+142 Shampoo,,Clothing,,5 Best purchase I Positive,,61,44,
+143 Novel,,Clothing,,5 The product is d,u,Positive,62,9
+144 Coffee Maker,,Home & Kitchen,4,Outstanding cust,Positive,43,6,
+145 Shampoo,,Clothing,,4 Great value for,m,Positive,30,45
+146 Coffee Maker,,Sports,,5 Amazing quality Positive,,18,0,
+147 Jeans,,Electronics,,5 Great value for,m,Positive,41,48
+148 Laptop,,Home & Kitchen,,4 Great value for,m,Positive,27,35
+149 Jeans,,Beauty,,4 Super happy wit,h,Positive,52,20
+150 Novel,,Clothing,,5 Fantastic produ,c,Positive,41,36
+151 Face Cream,,Electronics,,4 Excellent build,q,Positive,45,23
+152 Coffee Maker,,Books,,4 Fantastic produ,c,Positive,53,24
+153 Yoga Mat,,Clothing,,4 Amazing quality Positive,,33,6,
+154 Face Cream,,Electronics,,4 The product is d,u,Positive,57,41
+155 Face Cream,,Sports,,5 Best purchase I Positive,,33,16,
+156 Novel,,Books,4,,Positive,34,28,
+157 Blender,,Sports,,4 The product is d,u,Positive,32,29
+158 T-Shirt,,Beauty,,5 Fantastic produ,c,Positive,33,6
+159 Dumbbells,,Electronics,,4 Best purchase I Positive,,32,32,
+160 Dumbbells,,Sports,,5 Best purchase I Positive,,51,6,
+161 Novel,,Beauty,,4 Outstanding cu,st,Positive,28,23
+162 T-Shirt,,Electronics,,5 Fantastic produ,c,Positive,18,10
+163 Coffee Maker,,Electronics,,5 Super happy wit,h,Positive,32,8
+164 Novel,,Sports,,5 Best purchase I Positive,,43,11,
+165 T-Shirt,,Electronics,,4 Fantastic produ,c,Positive,21,34
+166 Shampoo,,Clothing,,4 Amazing quality Positive,,60,3,
+167 Jeans,,Electronics,,5 Fantastic produ,c,Positive,22,35
+168 Novel,,Home & Kitchen,,5 Absolutely love,t,Positive,52,27
+169 Shampoo,,Beauty,,5 Outstanding cu,st,Positive,30,12
+170 Coffee Maker,,Electronics,,4 Super happy wit,h,Positive,27,22
+171 Novel,,Home & Kitchen,,5 Outstanding cu,st,Positive,28,18
+172 Coffee Maker,,Electronics,,4 Great value for,m,Positive,35,41
+173 Novel,,Electronics,,5 Great value for,m,Positive,51,36
+174 T-Shirt,,Sports,,4 Great value for,m,Positive,56,38
+175 Blender,,Clothing,,4 Fantastic produ,c,Positive,58,23
+176 Headphones,,Beauty,,4 Amazing quality Positive,,59,15,
+177 Shampoo,,Clothing,,4 Amazing quality Positive,,40,32,
+178 T-Shirt,,Books,,5 Fantastic produ,c,Positive,24,11
+179 Laptop,,Sports,,4 Fantastic produ,c,Positive,56,33
+180 Python Guide,,Sports,,4 Amazing quality Positive,,20,6,
+181 Shampoo,,Clothing,,4 Super happy wit,h,Positive,29,10
+182 Blender,,Sports,,4 Best purchase I Positive,,24,30,
+183 Jeans,,Clothing,,5 Works like a ch,a,Positive,43,28
+184 Face Cream,,Sports,,4 Excellent build,q,Positive,50,12
+185 Dumbbells,,Electronics,,4 Excellent build,q,Positive,54,30
+186 T-Shirt,,Clothing,,5 Absolutely love,t,Positive,32,1
+187 Novel,,Clothing,,5 Amazing quality Positive,,19,38,
+188 T-Shirt,,Home & Kitchen,,4 Works like a ch,a,Positive,58,14
+189 Shampoo,,Sports,,5 Best purchase I Positive,,24,10,
+190 Yoga Mat,,Sports,,5 Super happy wit,h,Positive,49,33
+191 Shampoo,,Clothing,,5 Great value for,m,Positive,21,38
+192 Blender,,Electronics,,4 Absolutely love,t,Positive,37,3
+193 Headphones,,Electronics,,5 Excellent build,q,Positive,53,10
+194 Jeans,,Beauty,,5 Great value for,m,Positive,49,28
+195 Yoga Mat,,Electronics,,4 Excellent build,q,Positive,45,1
+196 Coffee Maker,,Sports,,5 Super happy wit,h,Positive,30,15
+197 Yoga Mat,,Home & Kitchen,,5 Outstanding cu,st,Positive,18,38
+198 T-Shirt,,Clothing,,4 Best purchase I Positive,,52,12,
+199 Jeans,,Books,,4 Excellent build,q,Positive,47,36
+200 T-Shirt,,Home & Kitchen,,5 Outstanding cu,st,Positive,53,16
+201 Coffee Maker,,Books,,5 Excellent build,q,Positive,42,20
+202 Shampoo,,Home & Kitchen,,4 Best purchase I Positive,,33,43,
+203 Face Cream,,Electronics,,5 Super happy wit,h,Positive,36,18
+204 Jeans,,Sports,,5 Best purchase I Positive,,18,6,
+205 Face Cream,,Books,,4 Amazing quality Positive,,22,37,
+206 Blender,,Home & Kitchen,,4 Fantastic produ,c,Positive,39,7
+207 Blender,,Sports,,4 The product is d,u,Positive,41,12
+208 Face Cream,,Books,,4 Works like a ch,a,Positive,60,36
+209 Blender,,Clothing,,4 Amazing quality Positive,,62,1,
+210 Jeans,,Home & Kitchen,,4 Best purchase I Positive,,54,40,
+211 Novel,,Clothing,,5 Great value for,m,Positive,53,10
+212 Laptop,,Electronics,,4 Absolutely love,t,Positive,53,23
+213 Blender,,Clothing,,4 Super happy wit,h,Positive,21,5
+214 Blender,,Clothing,,4 Outstanding cu,st,Positive,53,25
+215 T-Shirt,,Beauty,,5 Great value for,m,Positive,35,6
+216 Face Cream,,Home & Kitchen,,5 Super happy wit,h,Positive,33,38
+217 Python Guide,,Electronics,,4 Fantastic produ,c,Positive,58,18
+218 Headphones,,Clothing,,4 Great value for,m,Positive,35,5
+219 Dumbbells,,Sports,,4 Amazing quality Positive,,39,42,
+220 Dumbbells,,Books,,4 Fantastic produ,c,Positive,19,28
+221 Yoga Mat,,Clothing,,5 Excellent build,q,Positive,38,42
+222 Blender,,Electronics,,4 Excellent build,q,Positive,53,38
+223 Yoga Mat,,Clothing,,5 Absolutely love,t,Positive,61,1
+224 Jeans,,Books,,5 Absolutely love,t,Positive,56,18
+225 Python Guide,,Electronics,,5 The product is d,u,Positive,64,3
+226 Headphones,,Home & Kitchen,4,Best purchase I Positive,,56,5,
+227 Face Cream,,Electronics,,4 Best purchase I Positive,,46,48,
+228 Shampoo,,Home & Kitchen,,5 Outstanding cu,st,Positive,43,36
+229 Laptop,,Electronics,,4 Excellent build,q,Positive,38,27
+230 Headphones,,Books,,5 Absolutely love,t,Positive,34,29
+231 Headphones,,Books,,5 Absolutely love,t,Positive,33,6
+232 Shampoo,,Electronics,,4 Great value for,m,Positive,48,8
+233 Laptop,,Clothing,,4 Fantastic produ,c,Positive,26,24
+234 Novel,,Books,,4 The product is d,u,Positive,48,32
+235 Face Cream,,Home & Kitchen,,5 Best purchase I Positive,,31,0,
+236 Shampoo,,Home & Kitchen,,5 Outstanding cu,st,Positive,54,5
+237 T-Shirt,,Sports,,4 Fantastic produ,c,Positive,19,17
+238 Yoga Mat,,Beauty,,4 Best purchase I Positive,,63,9,
+239 Dumbbells,,Beauty,,5 The product is d,u,Positive,31,27
+240 Blender,,Beauty,,5 Excellent build,q,Positive,50,10
+241 Headphones,,Home & Kitchen,5,Outstanding cust,Positive,52,32,
+242 Jeans,,Sports,,4 Great value for,m,Positive,56,0
+243 Dumbbells,,Beauty,,4 Great value for,m,Positive,64,12
+244 Dumbbells,,Beauty,,5 Excellent build,q,Positive,37,36
+245 Laptop,,Electronics,,5 Works like a ch,a,Positive,19,19
+246 Yoga Mat,,Electronics,,4 Best purchase I Positive,,58,0,
+247 Python Guide,,Electronics,,5 Absolutely love,t,Positive,36,2
+248 Laptop,,Clothing,,4 Absolutely love,t,Positive,54,17
+249 Shampoo,,Beauty,,4 Fantastic produ,c,Positive,35,40
+250 Python Guide,,Clothing,,4 The product is d,u,Positive,33,13
+251 Face Cream,,Sports,,4 Absolutely love,t,Positive,21,30
+252 Headphones,,Home & Kitchen,4,Great value for m,Positive,29,26,
+253 Jeans,,Beauty,,5 Best purchase I Positive,,46,16,
+254 Dumbbells,,Home & Kitchen,,5 The product is d,u,Positive,24,45
+255 Blender,,Electronics,,5 Best purchase I Positive,,31,28,
+256 Python Guide,,Beauty,,5 Super happy wit,h,Positive,29,35
+257 Yoga Mat,,Books,,4 Fantastic produ,c,Positive,52,36
+258 Novel,,Clothing,,4 Best purchase I Positive,,22,25,
+259 Face Cream,,Clothing,,4 Absolutely love,t,Positive,34,16
+260 Novel,,Beauty,,5 Outstanding cu,st,Positive,59,21
+261 Face Cream,,Electronics,,5 Absolutely love,t,Positive,49,24
+262 T-Shirt,,Clothing,,5 Works like a ch,a,Positive,27,1
+263 Yoga Mat,,Electronics,,5 Fantastic produ,c,Positive,60,21
+264 Shampoo,,Sports,,4 Great value for,m,Positive,34,4
+265 Dumbbells,,Home & Kitchen,,5 Absolutely love,t,Positive,22,3
+266 Novel,,Books,,5 Excellent build,q,Positive,62,35
+267 Jeans,,Home & Kitchen,,4 Super happy wit,h,Positive,59,5
+268 Headphones,,Home & Kitchen,4,Amazing quality Positive,,26,20,
+269 Laptop,,Sports,,4 The product is d,u,Positive,50,12
+270 Blender,,Clothing,,5 The product is d,u,Positive,53,36
+271 Shampoo,,Books,,5 Great value for,m,Positive,53,24
+272 Headphones,,Clothing,,5 Excellent build,q,Positive,35,25
+273 Dumbbells,,Beauty,,5 Super happy wit,h,Positive,26,38
+274 Headphones,,Home & Kitchen,4,Best purchase I Positive,,46,19,
+275 Face Cream,,Beauty,,4 Works like a ch,a,Positive,31,32
+276 Jeans,,Electronics,,5 Outstanding cu,st,Positive,42,13
+277 Dumbbells,,Home & Kitchen,,5 Amazing quality Positive,,32,35,
+278 Face Cream,,Clothing,,4 Great value for,m,Positive,23,16
+279 Coffee Maker,,Home & Kitchen,5,Super happy with,Positive,59,20,
+280 Python Guide,,Electronics,,4 The product is d,u,Positive,46,45
+281 Blender,,Sports,,4 Works like a ch,a,Positive,32,15
+282 Python Guide,,Beauty,,4 Great value for,m,Positive,46,45
+283 Laptop,,Beauty,,5 Amazing quality Positive,,21,15,
+284 Coffee Maker,,Clothing,,5 Great value for,m,Positive,35,19
+285 Yoga Mat,,Home & Kitchen,,4 Fantastic produ,c,Positive,61,28
+286 Laptop,,Clothing,,4 Best purchase I Positive,,56,27,
+287 Laptop,,Sports,,4 Excellent build,q,Positive,33,7
+288 T-Shirt,,Home & Kitchen,,4 Amazing quality Positive,,28,23,
+289 Blender,,Home & Kitchen,,4 Fantastic produ,c,Positive,31,2
+290 Face Cream,,Clothing,,5 Fantastic produ,c,Positive,20,24
+291 Jeans,,Clothing,,4 The product is d,u,Positive,59,18
+292 Python Guide,,Electronics,,4 Absolutely love,t,Positive,55,32
+293 Laptop,,Sports,,4 Absolutely love,t,Positive,62,1
+294 Python Guide,,Electronics,,4 Great value for,m,Positive,59,14
+295 Shampoo,,Beauty,,5 Works like a ch,a,Positive,35,21
+296 Python Guide,,Home & Kitchen,5,Fantastic produc,Positive,37,9,
+297 Yoga Mat,,Clothing,,5 Works like a ch,a,Positive,42,17
+298 Dumbbells,,Home & Kitchen,,5 Works like a ch,a,Positive,55,21
+299 Shampoo,,Home & Kitchen,,5 Great value for,m,Positive,30,45
+300 Shampoo,,Books,,4 Amazing quality Positive,,21,48,
+301 Blender,,Beauty,,5 Great value for,m,Positive,31,26
+302 Blender,,Books,,4 Excellent build,q,Positive,50,12
+303 Novel,,Home & Kitchen,,5 Fantastic produ,c,Positive,45,32
+304 Headphones,,Clothing,,4 Super happy wit,h,Positive,54,4
+305 Blender,,Home & Kitchen,,4 Excellent build,q,Positive,25,25
+306 Python Guide,,Beauty,,4 Excellent build,q,Positive,61,12
+307 Face Cream,,Books,,4 Excellent build,q,Positive,51,26
+308 Python Guide,,Clothing,,5 Outstanding cu,st,Positive,61,13
+309 Face Cream,,Home & Kitchen,,5 Works like a ch,a,Positive,22,23
+310 Dumbbells,,Sports,,4 Great value for,m,Positive,22,2
+311 Dumbbells,,Beauty,,4 Best purchase I Positive,,48,46,
+312 Shampoo,,Beauty,,5 Fantastic produ,c,Positive,62,48
+313 Novel,,Sports,,5 Works like a ch,a,Positive,26,29
+314 Face Cream,,Home & Kitchen,,5 The product is d,u,Positive,59,34
+315 Shampoo,,Beauty,,4 Best purchase I Positive,,49,47,
+316 Blender,,Clothing,,5 The product is d,u,Positive,50,13
+317 Yoga Mat,,Home & Kitchen,,5 Outstanding cu,st,Positive,20,11
+318 Face Cream,,Home & Kitchen,,4 Works like a ch,a,Positive,47,27
+319 Dumbbells,,Books,,5 Great value for,m,Positive,29,43
+320 Python Guide,,Beauty,,4 Best purchase I Positive,,46,28,
+321 Jeans,,Beauty,,4 The product is d,u,Positive,20,42
+322 Blender,,Sports,,4 Outstanding cu,st,Positive,43,16
+323 Jeans,,Books,,5 The product is d,u,Positive,47,39
+324 Coffee Maker,,Books,,4 Works like a ch,a,Positive,26,48
+325 Coffee Maker,,Beauty,,4 Excellent build,q,Positive,43,20
+326 Python Guide,,Home & Kitchen,4,Works like a cha,Positive,19,22,
+327 Coffee Maker,,Books,,4 Best purchase I Positive,,20,19,
+328 Headphones,,Sports,,5 The product is d,u,Positive,63,10
+329 Dumbbells,,Books,,5 Absolutely love,t,Positive,21,33
+330 Shampoo,,Sports,,5 Absolutely love,t,Positive,42,9
+331 Novel,,Books,,5 The product is d,u,Positive,30,9
+332 Blender,,Sports,,4 Outstanding cu,st,Positive,56,42
+333 Jeans,,Books,,4 Great value for,m,Positive,61,5
+334 Python Guide,,Books,,5 Amazing quality Positive,,52,35,
+335 Headphones,,Clothing,5,,Positive,40,23,
+336 Python Guide,,Sports,,5 Amazing quality Positive,,26,11,
+337 Shampoo,,Sports,,4 Amazing quality Positive,,19,42,
+338 Headphones,,Sports,,5 Best purchase I Positive,,58,22,
+339 Dumbbells,,Electronics,,5 Excellent build,q,Positive,61,26
+340 Coffee Maker,,Books,,5 The product is d,u,Positive,48,44
+341 Coffee Maker,,Sports,,4 Absolutely love,t,Positive,61,36
+342 Dumbbells,,Beauty,,4 Amazing quality Positive,,64,5,
+343 Dumbbells,,Electronics,,5 Works like a ch,a,Positive,19,0
+344 Face Cream,,Clothing,,4 Great value for,m,Positive,49,5
+345 T-Shirt,,Sports,,4 Works like a ch,a,Positive,35,49
+346 Dumbbells,,Sports,,4 Works like a ch,a,Positive,30,21
+347 Python Guide,,Electronics,,4 Great value for,m,Positive,63,40
+348 Face Cream,,Books,,4 Best purchase I Positive,,22,23,
+349 Blender,,Beauty,,5 Fantastic produ,c,Positive,59,24
+350 Face Cream,,Clothing,,5 Fantastic produ,c,Positive,61,14
+351 Laptop,,Sports,,4 Works like a ch,a,Positive,27,25
+352 Coffee Maker,,Books,,5 Works like a ch,a,Positive,60,7
+353 Shampoo,,Beauty,,4 Great value for,m,Positive,42,23
+354 Laptop,,Beauty,,4 Super happy wit,h,Positive,51,47
+355 Python Guide,,Clothing,,5 Absolutely love,t,Positive,54,37
+356 Jeans,,Home & Kitchen,,5 Absolutely love,t,Positive,47,5
+357 Jeans,,Beauty,,4 Amazing quality Positive,,24,34,
+358 Dumbbells,,Home & Kitchen,,4 Works like a ch,a,Positive,23,41
+359 Blender,,Beauty,,5 The product is d,u,Positive,20,0
+360 Face Cream,,Clothing,,4 Great value for,m,Positive,30,45
+361 Jeans,,Electronics,,4 Outstanding cu,st,Positive,20,35
+362 Headphones,,Clothing,,5 Absolutely love,t,Positive,43,11
+363 Dumbbells,,Clothing,,5 Outstanding cu,st,Positive,41,37
+364 Headphones,,Electronics,,5 Absolutely love,t,Positive,23,10
+365 Blender,,Electronics,,5 Super happy wit,h,Positive,60,11
+366 Novel,,Books,4,,Positive,59,41,
+367 Shampoo,,Beauty,,5 Best purchase I Positive,,29,49,
+368 Coffee Maker,,Books,,5 The product is d,u,Positive,53,38
+369 Face Cream,,Electronics,,4 Outstanding cu,st,Positive,19,6
+370 Shampoo,,Home & Kitchen,,5 Outstanding cu,st,Positive,28,10
+371 Dumbbells,,Home & Kitchen,,5 Works like a ch,a,Positive,56,35
+372 Python Guide,,Clothing,,5 Outstanding cu,st,Positive,51,30
+373 Yoga Mat,,Sports,,5 Great value for,m,Positive,43,32
+374 Yoga Mat,,Clothing,,4 Fantastic produ,c,Positive,35,12
+375 Yoga Mat,,Clothing,,4 Best purchase I Positive,,38,17,
+376 Jeans,,Sports,,5 Fantastic produ,c,Positive,53,40
+377 Novel,,Beauty,,5 The product is d,u,Positive,57,23
+378 Novel,,Electronics,,5 Fantastic produ,c,Positive,63,8
+379 Face Cream,,Home & Kitchen,,5 Fantastic produ,c,Positive,61,30
+380 Face Cream,,Clothing,,4 Amazing quality Positive,,39,40,
+381 Novel,,Sports,,5 Works like a ch,a,Positive,47,9
+382 Blender,,Books,,5 Outstanding cu,st,Positive,60,1
+383 Face Cream,,Clothing,,4 Works like a ch,a,Positive,47,37
+384 Blender,,Home & Kitchen,,5 Fantastic produ,c,Positive,25,14
+385 Dumbbells,,Electronics,,4 Fantastic produ,c,Positive,51,2
+386 Laptop,,Clothing,,5 Great value for,m,Positive,64,42
+387 Headphones,,Clothing,,4 Excellent build,q,Positive,26,30
+388 Coffee Maker,,Beauty,,4 Absolutely love,t,Positive,37,5
+389 Dumbbells,,Sports,,5 Best purchase I Positive,,57,2,
+390 Shampoo,,Books,,5 Outstanding cu,st,Positive,42,10
+391 Face Cream,,Books,,5 Excellent build,q,Positive,36,14
+392 Novel,,Electronics,,5 The product is d,u,Positive,22,44
+393 Headphones,,Home & Kitchen,4,Best purchase I Positive,,28,27,
+394 Headphones,,Electronics,,4 Best purchase I Positive,,32,9,
+395 T-Shirt,,Clothing,,5 Outstanding cu,st,Positive,25,37
+396 Shampoo,,Clothing,,4 Excellent build,q,Positive,36,46
+397 Dumbbells,,Books,,4 Outstanding cu,st,Positive,40,49
+398 Novel,,Home & Kitchen,,5 The product is d,u,Positive,44,49
+399 Coffee Maker,,Sports,,4 Amazing quality Positive,,57,6,
+400 Novel,,Home & Kitchen,,5 Absolutely love,t,Positive,49,14
+401 Face Cream,,Clothing,,5 Great value for,m,Positive,43,17
+402 Python Guide,,Sports,,4 Excellent build,q,Positive,44,17
+403 Laptop,,Home & Kitchen,,5 The product is d,u,Positive,36,40
+404 Blender,,Home & Kitchen,,5 Absolutely love,t,Positive,59,23
+405 Python Guide,,Sports,5,,Positive,46,1,
+406 Shampoo,,Clothing,,5 Amazing quality Positive,,56,39,
+407 Laptop,,Home & Kitchen,,4 Absolutely love,t,Positive,58,19
+408 Python Guide,,Sports,,5 Outstanding cu,st,Positive,50,33
+409 Blender,,Beauty,,5 Works like a ch,a,Positive,36,42
+410 Jeans,,Beauty,,5 Super happy wit,h,Positive,54,25
+411 Novel,,Clothing,,4 Works like a ch,a,Positive,36,6
+412 Python Guide,,Sports,,4 Absolutely love,t,Positive,50,37
+413 Face Cream,,Beauty,,4 Works like a ch,a,Positive,64,29
+414 Coffee Maker,,Sports,,4 Great value for,m,Positive,33,41
+415 Dumbbells,,Home & Kitchen,,5 Amazing quality Positive,,40,4,
+416 Yoga Mat,,Clothing,,5 Amazing quality Positive,,24,10,
+417 Face Cream,,Beauty,,4 Great value for,m,Positive,43,0
+418 Blender,,Home & Kitchen,,5 Absolutely love,t,Positive,49,33
+419 Coffee Maker,,Electronics,5,,Positive,29,0,
+420 Face Cream,,Electronics,,5 Fantastic produ,c,Positive,25,18
+421 Headphones,,Clothing,,5 Amazing quality Positive,,22,1,
+422 Novel,,Beauty,,4 Super happy wit,h,Positive,59,20
+423 Coffee Maker,,Beauty,,4 Amazing quality Positive,,45,19,
+424 Headphones,,Beauty,,4 Absolutely love,t,Positive,22,22
+425 Face Cream,,Sports,,5 Works like a ch,a,Positive,43,20
+426 Laptop,,Home & Kitchen,,4 Works like a ch,a,Positive,22,23
+427 T-Shirt,,Beauty,,5 Best purchase I Positive,,39,3,
+428 Laptop,,Home & Kitchen,,4 Absolutely love,t,Positive,32,11
+429 Novel,,Clothing,,4 Amazing quality Positive,,30,21,
+430 Coffee Maker,,Beauty,,4 Works like a ch,a,Positive,45,19
+431 Coffee Maker,,Clothing,,4 Outstanding cu,st,Positive,50,17
+432 Novel,,Beauty,,5 Best purchase I Positive,,60,0,
+433 Headphones,,Electronics,,5 Super happy wit,h,Positive,40,29
+434 T-Shirt,,Books,,4 Fantastic produ,c,Positive,50,32
+435 Face Cream,,Clothing,,4 Super happy wit,h,Positive,60,23
+436 Dumbbells,,Beauty,,4 Great value for,m,Positive,35,13
+437 Blender,,Books,,5 Amazing quality Positive,,47,35,
+438 Laptop,,Clothing,,4 Best purchase I Positive,,43,4,
+439 Laptop,,Sports,,5 Fantastic produ,c,Positive,33,10
+440 Shampoo,,Beauty,,5 Super happy wit,h,Positive,30,23
+441 Yoga Mat,,Sports,,4 Outstanding cu,st,Positive,56,30
+442 Shampoo,,Electronics,,5 Excellent build,q,Positive,50,12
+443 T-Shirt,,Beauty,,5 Great value for,m,Positive,43,15
+444 Blender,,Electronics,,4 Works like a ch,a,Positive,18,23
+445 Laptop,,Books,,4 Works like a ch,a,Positive,55,12
+446 Blender,,Clothing,,4 Absolutely love,t,Positive,19,23
+447 Dumbbells,,Home & Kitchen,,4 Absolutely love,t,Positive,23,25
+448 Face Cream,,Electronics,,4 Works like a ch,a,Positive,63,1
+449 Coffee Maker,,Home & Kitchen,4,Super happy with,Positive,55,15,
+450 Blender,,Home & Kitchen,,5 The product is d,u,Positive,59,37
+451 Laptop,,Clothing,,5 Fantastic produ,c,Positive,41,45
+452 Headphones,,Books,,4 Amazing quality Positive,,35,0,
+453 T-Shirt,,Clothing,,4 The product is d,u,Positive,44,48
+454 Novel,,Beauty,,5 Fantastic produ,c,Positive,58,10
+455 Python Guide,,Electronics,,4 Amazing quality Positive,,25,34,
+456 Jeans,,Home & Kitchen,,4 The product is d,u,Positive,45,42
+457 Jeans,,Clothing,,4 Best purchase I Positive,,27,28,
+458 Python Guide,,Clothing,,4 Best purchase I Positive,,34,36,
+459 Blender,,Clothing,,4 The product is d,u,Positive,46,16
+460 T-Shirt,,Electronics,,4 Excellent build,q,Positive,23,38
+461 Blender,,Books,,5 Fantastic produ,c,Positive,31,41
+462 Dumbbells,,Clothing,,4 Best purchase I Positive,,39,27,
+463 Dumbbells,,Electronics,,5 Fantastic produ,c,Positive,23,28
+464 Dumbbells,,Home & Kitchen,,5 Amazing quality Positive,,43,42,
+465 Novel,,Beauty,,4 Absolutely love,t,Positive,56,2
+466 T-Shirt,,Sports,,5 Outstanding cu,st,Positive,29,9
+467 Shampoo,,Electronics,,5 Best purchase I Positive,,52,41,
+468 Shampoo,,Sports,,4 Outstanding cu,st,Positive,31,13
+469 Python Guide,,Clothing,,5 Works like a ch,a,Positive,39,11
+470 Dumbbells,,Clothing,,5 Super happy wit,h,Positive,40,46
+471 Dumbbells,,Electronics,,5 The product is d,u,Positive,24,41
+472 Blender,,Sports,,5 Fantastic produ,c,Positive,57,29
+473 Yoga Mat,,Clothing,,4 Outstanding cu,st,Positive,42,31
+474 Laptop,,Home & Kitchen,,5 Outstanding cu,st,Positive,30,31
+475 Headphones,,Books,,5 Amazing quality Positive,,38,41,
+476 Coffee Maker,,Books,,4 Best purchase I Positive,,58,31,
+477 Headphones,,Clothing,,4 Works like a ch,a,Positive,27,25
+478 Novel,,Sports,,5 Works like a ch,a,Positive,26,0
+479 Blender,,Beauty,,5 Super happy wit,h,Positive,32,41
+480 Face Cream,,Clothing,,5 Amazing quality Positive,,19,1,
+481 Dumbbells,,Beauty,,4 Great value for,m,Positive,42,16
+482 T-Shirt,,Beauty,,5 Amazing quality Positive,,30,29,
+483 Shampoo,,Sports,,5 Best purchase I Positive,,51,38,
+484 Shampoo,,Beauty,,4 Absolutely love,t,Positive,51,6
+485 Blender,,Home & Kitchen,,4 Fantastic produ,c,Positive,52,26
+486 T-Shirt,,Sports,,4 Works like a ch,a,Positive,55,8
+487 Coffee Maker,,Clothing,,4 Best purchase I Positive,,20,21,
+488 Yoga Mat,,Home & Kitchen,,5 The product is d,u,Positive,59,33
+489 Headphones,,Electronics,,4 Excellent build,q,Positive,23,45
+490 Laptop,,Books,,5 Fantastic produ,c,Positive,36,48
+491 Coffee Maker,,Clothing,,4 Fantastic produ,c,Positive,20,0
+492 Coffee Maker,,Clothing,,4 Fantastic produ,c,Positive,35,8
+493 Headphones,,Clothing,,5 Super happy wit,h,Positive,56,19
+494 Coffee Maker,,Home & Kitchen,5,Fantastic produc,Positive,26,18,
+495 Face Cream,,Electronics,,4 Best purchase I Positive,,29,35,
+496 Face Cream,,Sports,,4 Works like a ch,a,Positive,22,39
+497 Shampoo,,Electronics,,5 Amazing quality Positive,,20,44,
+498 Jeans,,Home & Kitchen,,4 Super happy wit,h,Positive,28,3
+499 Jeans,,Clothing,,5 Fantastic produ,c,Positive,47,8
+500 Face Cream,,Books,,4 Works like a ch,a,Positive,21,40
+501 Python Guide,,Clothing,,5 Amazing quality Positive,,22,21,
+502 Yoga Mat,,Sports,,5 Works like a ch,a,Positive,18,17
+503 T-Shirt,,Beauty,,5 Super happy wit,h,Positive,44,11
+504 Yoga Mat,,Books,,4 Works like a ch,a,Positive,45,41
+505 Novel,,Clothing,,5 The product is d,u,Positive,46,42
+506 Coffee Maker,,Books,,5 Amazing quality Positive,,35,38,
+507 Laptop,,Beauty,,4 Fantastic produ,c,Positive,29,8
+508 Coffee Maker,,Electronics,,4 Super happy wit,h,Positive,30,5
+509 Yoga Mat,,Home & Kitchen,,5 Amazing quality Positive,,58,18,
+510 Shampoo,,Clothing,,4 Super happy wit,h,Positive,19,47
+511 Face Cream,,Sports,,5 Amazing quality Positive,,54,46,
+512 Dumbbells,,Electronics,,5 Super happy wit,h,Positive,62,6
+513 Headphones,,Clothing,,5 Absolutely love,t,Positive,33,15
+514 Novel,,Electronics,,5 Best purchase I Positive,,41,4,
+515 Face Cream,,Sports,,4 Works like a ch,a,Positive,52,15
+516 Yoga Mat,,Clothing,,5 Excellent build,q,Positive,39,0
+517 Shampoo,,Beauty,,5 Super happy wit,h,Positive,53,36
+518 Headphones,,Beauty,,5 Absolutely love,t,Positive,28,38
+519 Laptop,,Sports,,5 Works like a ch,a,Positive,63,18
+520 Dumbbells,,Books,,5 Outstanding cu,st,Positive,46,36
+521 Yoga Mat,,Sports,,4 Excellent build,q,Positive,52,16
+522 T-Shirt,,Books,,4 Best purchase I Positive,,32,25,
+523 Blender,,Clothing,,5 Absolutely love,t,Positive,48,21
+524 Headphones,,Books,,5 Outstanding cu,st,Positive,59,7
+525 Yoga Mat,,Clothing,,4 Fantastic produ,c,Positive,58,32
+526 Shampoo,,Clothing,,5 The product is d,u,Positive,60,1
+527 Face Cream,,Home & Kitchen,,5 Works like a ch,a,Positive,33,29
+528 T-Shirt,,Clothing,,4 Amazing quality Positive,,27,46,
+529 Python Guide,,Books,,5 Outstanding cu,st,Positive,49,19
+530 Headphones,,Home & Kitchen,5,Works like a cha,Positive,19,17,
+531 Dumbbells,,Home & Kitchen,,5 The product is d,u,Positive,41,42
+532 T-Shirt,,Clothing,,4 Fantastic produ,c,Positive,40,9
+533 Shampoo,,Sports,,5 Excellent build,q,Positive,19,23
+534 Face Cream,,Sports,,4 Absolutely love,t,Positive,55,3
+535 Yoga Mat,,Beauty,,4 The product is d,u,Positive,48,36
+536 Coffee Maker,,Home & Kitchen,4,Super happy with,Positive,57,3,
+537 Laptop,,Clothing,,5 Outstanding cu,st,Positive,43,12
+538 Shampoo,,Sports,,5 Fantastic produ,c,Positive,46,24
+539 Dumbbells,,Clothing,,4 Absolutely love,t,Positive,20,12
+540 Coffee Maker,,Clothing,,4 Great value for,m,Positive,31,17
+541 Dumbbells,,Home & Kitchen,,4 Works like a ch,a,Positive,42,23
+542 Blender,,Beauty,,5 Excellent build,q,Positive,18,1
+543 Dumbbells,,Home & Kitchen,,5 Amazing quality Positive,,20,47,
+544 T-Shirt,,Electronics,,4 Works like a ch,a,Positive,43,32
+545 Blender,,Sports,,5 Excellent build,q,Positive,35,18
+546 Laptop,,Sports,,4 Amazing quality Positive,,26,8,
+547 T-Shirt,,Sports,,5 Works like a ch,a,Positive,55,27
+548 Jeans,,Books,,4 Amazing quality Positive,,40,34,
+549 Face Cream,,Clothing,,4 The product is d,u,Positive,38,38
+550 T-Shirt,,Home & Kitchen,,4 Best purchase I Positive,,18,9,
+551 Shampoo,,Sports,,5 Amazing quality Positive,,38,0,
+552 Face Cream,,Electronics,,4 Best purchase I Positive,,44,41,
+553 Coffee Maker,,Sports,,5 Works like a ch,a,Positive,59,20
+554 Novel,,Beauty,,5 Great value for,m,Positive,23,8
+555 Headphones,,Clothing,,4 Works like a ch,a,Positive,61,46
+556 Novel,,Clothing,,5 Absolutely love,t,Positive,53,14
+557 Yoga Mat,,Home & Kitchen,,4 Works like a ch,a,Positive,45,34
+558 Headphones,,Books,,4 Excellent build,q,Positive,62,4
+559 Dumbbells,,Home & Kitchen,,5 Excellent build,q,Positive,34,40
+560 Headphones,,Sports,,4 The product is d,u,Positive,57,21
+561 Shampoo,,Beauty,,4 Best purchase I Positive,,20,40,
+562 Shampoo,,Electronics,,5 Excellent build,q,Positive,29,22
+563 Python Guide,,Home & Kitchen,5,Super happy with,Positive,56,6,
+564 Headphones,,Books,,4 Best purchase I Positive,,29,22,
+565 Laptop,,Home & Kitchen,,4 Amazing quality Positive,,19,43,
+566 Novel,,Clothing,,5 Super happy wit,h,Positive,63,24
+567 Coffee Maker,,Sports,,4 Absolutely love,t,Positive,39,26
+568 Face Cream,,Sports,,4 Amazing quality Positive,,40,40,
+569 Yoga Mat,,Sports,,5 Great value for,m,Positive,47,5
+570 Headphones,,Sports,,5 Great value for,m,Positive,22,33
+571 Yoga Mat,,Sports,,5 Excellent build,q,Positive,26,8
+572 Coffee Maker,,Sports,,4 Best purchase I Positive,,38,48,
+573 Yoga Mat,,Electronics,,4 Outstanding cu,st,Positive,28,32
+574 Dumbbells,,Books,,5 Outstanding cu,st,Positive,22,5
+575 Coffee Maker,,Sports,5,,Positive,52,36,
+576 Dumbbells,,Books,,5 Fantastic produ,c,Positive,44,30
+577 Headphones,,Beauty,,5 The product is d,u,Positive,19,33
+578 Coffee Maker,,Sports,,5 Amazing quality Positive,,41,40,
+579 Headphones,,Home & Kitchen,4,Outstanding cust,Positive,48,28,
+580 Dumbbells,,Sports,,5 Super happy wit,h,Positive,50,13
+581 Python Guide,,Clothing,,4 Absolutely love,t,Positive,56,35
+582 Python Guide,,Electronics,,5 Great value for,m,Positive,47,35
+583 Coffee Maker,,Home & Kitchen,4,Super happy with,Positive,63,14,
+584 Shampoo,,Home & Kitchen,,5 Amazing quality Positive,,54,7,
+585 Python Guide,,Clothing,,4 Great value for,m,Positive,45,25
+586 Face Cream,,Sports,,5 Super happy wit,h,Positive,48,35
+587 Shampoo,,Electronics,,5 Outstanding cu,st,Positive,28,47
+588 Face Cream,,Home & Kitchen,,5 Outstanding cu,st,Positive,40,20
+589 Python Guide,,Electronics,,4 Great value for,m,Positive,19,27
+590 Python Guide,,Home & Kitchen,5,Works like a cha,Positive,57,3,
+591 Jeans,,Sports,,4 Best purchase I Positive,,58,15,
+592 Jeans,,Beauty,,4 Outstanding cu,st,Positive,44,21
+593 Headphones,,Home & Kitchen,5,Excellent build q,Positive,52,11,
+594 Coffee Maker,,Beauty,,4 Absolutely love,t,Positive,19,15
+595 Blender,,Home & Kitchen,,4 The product is d,u,Positive,56,39
+596 Blender,,Books,,5 Great value for,m,Positive,54,37
+597 Python Guide,,Sports,,4 Excellent build,q,Positive,38,41
+598 Yoga Mat,,Clothing,,4 Works like a ch,a,Positive,22,36
+599 Python Guide,,Beauty,,4 Excellent build,q,Positive,62,28
+600 Jeans,,Clothing,,4 Works like a ch,a,Positive,38,17
+601 Headphones,,Sports,,"2 Terrible quality, l",o,Negative,46,9
+602 Python Guide,,Clothing,,2 Product arrived,d,Negative,37,41
+603 Novel,,Sports,,1 Worst purchase Negative,,55,38,
+604 Shampoo,,Clothing,,2 Not worth the pr,i,Negative,37,17
+605 Yoga Mat,,Beauty,,2 Extremely fragil,e,Negative,42,0
+606 Novel,,Books,,1 Customer servi,ce,Negative,19,38
+607 Headphones,,Clothing,,2 Poor packaging,a,Negative,49,20
+608 Headphones,,Beauty,,2 Poor packaging,a,Negative,43,0
+609 Face Cream,,Home & Kitchen,,"2 Terrible quality, l",o,Negative,23,14
+610 T-Shirt,,Sports,,1 Very disappoint,e,Negative,58,3
+611 Novel,,Electronics,,"2 Terrible quality, l",o,Negative,20,19
+612 Face Cream,,Electronics,,Poor packaging a,Negative,50,9,
+613 Jeans,,Sports,,2 Not worth the pr,i,Negative,18,22
+614 Laptop,,Books,,2 Not worth the pr,i,Negative,22,40
+615 Yoga Mat,,Clothing,,2 Poor packaging,a,Negative,30,33
+616 Shampoo,,Books,,1 Very disappoint,e,Negative,36,45
+617 Laptop,,Electronics,,1 Poor packaging,a,Negative,29,47
+618 Coffee Maker,,Beauty,,1 Very disappoint,e,Negative,42,32
+619 Dumbbells,,Sports,,"2 Terrible quality, l",o,Negative,52,33
+620 Jeans,,Sports,,"1 Terrible quality, l",o,Negative,29,38
+621 Jeans,,Books,,1 Very disappoint,e,Negative,47,9
+622 Laptop,,Beauty,,1 Poor packaging,a,Negative,22,19
+623 Novel,,Books,,1 Poor packaging,a,Negative,51,0
+624 T-Shirt,,Clothing,,2 Horrible experie,n,Negative,39,12
+625 Shampoo,,Home & Kitchen,,1 Horrible experie,n,Negative,56,0
+626 Novel,,Beauty,,2 Very disappoint,e,Negative,30,4
+627 Laptop,,Home & Kitchen,,1 Worst purchase Negative,,64,15,
+628 Shampoo,,Clothing,,Poor packaging a,Negative,20,14,
+629 Coffee Maker,,Home & Kitchen,2,Not worth the pri,Negative,37,48,
+630 Novel,,Electronics,,2 Shipping took fo,r,Negative,48,27
+631 Blender,,Home & Kitchen,,1 Customer servi,ce,Negative,22,30
+632 Novel,,Clothing,,2 Extremely fragil,e,Negative,41,22
+633 Headphones,,Home & Kitchen,2,Customer service,Negative,57,47,
+634 Dumbbells,,Sports,,2 Horrible experie,n,Negative,50,44
+635 Face Cream,,Books,,2 Not worth the pr,i,Negative,25,42
+636 Yoga Mat,,Electronics,,"2 Terrible quality, l",o,Negative,41,16
+637 Dumbbells,,Sports,,1 Extremely fragil,e,Negative,37,48
+638 Novel,,Sports,,1 Worst purchase Negative,,33,33,
+639 T-Shirt,,Clothing,,1 Extremely fragil,e,Negative,29,12
+640 Dumbbells,,Books,,2 Shipping took fo,r,Negative,30,13
+641 Shampoo,,Books,,2 Extremely fragil,e,Negative,62,10
+642 T-Shirt,,Beauty,,"1 Terrible quality, l",o,Negative,59,27
+643 Dumbbells,,Electronics,,1 Worst purchase Negative,,56,41,
+644 Shampoo,,Clothing,,2 Shipping took fo,r,Negative,42,31
+645 Novel,,Electronics,,1 Horrible experie,n,Negative,63,34
+646 Shampoo,,Beauty,,1 Poor packaging,a,Negative,49,30
+647 Python Guide,,Home & Kitchen,1,Very disappointe,Negative,41,16,
+648 Jeans,,Sports,,2 Product arrived,d,Negative,64,46
+649 Dumbbells,,Electronics,,2 Shipping took fo,r,Negative,61,8
+650 Novel,,Sports,,2 Customer servi,ce,Negative,26,9
+651 Jeans,,Clothing,,2 Customer servi,ce,Negative,57,7
+652 Blender,,Home & Kitchen,1,,Negative,40,20,
+653 Shampoo,,Clothing,,1 Customer servi,ce,Negative,30,12
+654 Laptop,,Home & Kitchen,,"1 Terrible quality, l",o,Negative,49,49
+655 Blender,,Home & Kitchen,,"1 Terrible quality, l",o,Negative,32,4
+656 Novel,,Sports,,2 Poor packaging,a,Negative,53,5
+657 T-Shirt,,Clothing,,1 Worst purchase Negative,,22,29,
+658 Python Guide,,Clothing,,1 Worst purchase Negative,,39,30,
+659 Coffee Maker,,Electronics,,1 Product arrived,d,Negative,33,16
+660 Jeans,,Clothing,,1 Horrible experie,n,Negative,58,10
+661 Face Cream,,Electronics,,1 Extremely fragil,e,Negative,27,19
+662 Jeans,,Books,,"1 Terrible quality, l",o,Negative,41,47
+663 Headphones,,Books,,2 Product arrived,d,Negative,35,8
+664 Yoga Mat,,Books,,1 Not worth the pr,i,Negative,35,1
+665 Novel,,Beauty,,2 Shipping took fo,r,Negative,24,36
+666 Blender,,Clothing,,"2 Terrible quality, l",o,Negative,21,0
+667 Face Cream,,Beauty,,1 Very disappoint,e,Negative,43,3
+668 T-Shirt,,Clothing,,2 Not worth the pr,i,Negative,22,35
+669 T-Shirt,,Electronics,,2 Worst purchase Negative,,33,24,
+670 T-Shirt,,Beauty,,2 Very disappoint,e,Negative,52,2
+671 Coffee Maker,,Beauty,,2 Customer servi,ce,Negative,43,8
+672 Headphones,,Beauty,,2 Horrible experie,n,Negative,35,21
+673 T-Shirt,,Home & Kitchen,,2 Horrible experie,n,Negative,46,22
+674 Shampoo,,Electronics,,2 Not worth the pr,i,Negative,40,11
+675 T-Shirt,,Books,,Customer service,Negative,31,9,
+676 Novel,,Electronics,,2 Very disappoint,e,Negative,32,33
+677 Headphones,,Home & Kitchen,2,Poor packaging a,Negative,50,42,
+678 Dumbbells,,Clothing,,2 Not worth the pr,i,Negative,42,9
+679 Python Guide,,Electronics,,1 Product arrived,d,Negative,38,29
+680 Python Guide,,Beauty,,2 Very disappoint,e,Negative,34,21
+681 Headphones,,Books,,2 Poor packaging,a,Negative,40,5
+682 Yoga Mat,,Books,,1 Customer servi,ce,Negative,60,49
+683 Coffee Maker,,Clothing,,"2 Terrible quality, l",o,Negative,34,1
+684 Face Cream,,Electronics,,2 Product arrived,d,Negative,31,29
+685 Shampoo,,Home & Kitchen,,2 Very disappoint,e,Negative,46,1
+686 Jeans,,Clothing,,2 Poor packaging,a,Negative,37,31
+687 Novel,,Electronics,,2 Product arrived,d,Negative,47,41
+688 Laptop,,Sports,,2 Worst purchase Negative,,36,15,
+689 Python Guide,,Books,,2 Horrible experie,n,Negative,56,11
+690 Dumbbells,,Home & Kitchen,,"2 Terrible quality, l",o,Negative,30,0
+691 Headphones,,Beauty,,"1 Terrible quality, l",o,Negative,35,7
+692 Face Cream,,Home & Kitchen,,1 Not worth the pr,i,Negative,40,47
+693 Headphones,,Beauty,,"1 Terrible quality, l",o,Negative,63,49
+694 Jeans,,Home & Kitchen,,2 Poor packaging,a,Negative,50,12
+695 Face Cream,,Books,,1 Customer servi,ce,Negative,56,14
+696 Python Guide,,Beauty,,1 Extremely fragil,e,Negative,57,43
+697 T-Shirt,,Electronics,,1 Product arrived,d,Negative,35,7
+698 Shampoo,,Beauty,,1 Shipping took fo,r,Negative,26,9
+699 Headphones,,Clothing,,2 Poor packaging,a,Negative,50,45
+700 Shampoo,,Electronics,,"1 Terrible quality, l",o,Negative,49,4
+701 Shampoo,,Clothing,,1 Horrible experie,n,Negative,34,49
+702 Shampoo,,Home & Kitchen,,"2 Terrible quality, l",o,Negative,36,18
+703 Dumbbells,,Electronics,,2 Horrible experie,n,Negative,44,46
+704 Laptop,,Home & Kitchen,,1 Very disappoint,e,Negative,23,37
+705 Python Guide,,Sports,,2 Shipping took fo,r,Negative,52,10
+706 Shampoo,,Home & Kitchen,,1 Very disappoint,e,Negative,54,42
+707 Dumbbells,,Home & Kitchen,,2 Product arrived,d,Negative,51,19
+708 Blender,,Clothing,,2 Horrible experie,n,Negative,37,19
+709 Laptop,,Beauty,,"2 Terrible quality, l",o,Negative,42,20
+710 Yoga Mat,,Sports,,1 Not worth the pr,i,Negative,21,17
+711 Coffee Maker,,Home & Kitchen,2,Not worth the pri,Negative,27,49,
+712 Python Guide,,Home & Kitchen,1,Not worth the pri,Negative,27,9,
+713 T-Shirt,,Sports,,"1 Terrible quality, l",o,Negative,41,33
+714 Python Guide,,Sports,,2 Customer servi,ce,Negative,38,25
+715 Jeans,,Electronics,,"1 Terrible quality, l",o,Negative,28,29
+716 Face Cream,,Clothing,,1 Extremely fragil,e,Negative,44,8
+717 Headphones,,Sports,,1 Very disappoint,e,Negative,33,45
+718 Shampoo,,Sports,,2 Poor packaging,a,Negative,43,30
+719 Face Cream,,Books,,1 Very disappoint,e,Negative,47,41
+720 Face Cream,,Beauty,,2 Extremely fragil,e,Negative,33,3
+721 Shampoo,,Sports,2,,Negative,24,5,
+722 Python Guide,,Clothing,,Very disappointe,Negative,33,13,
+723 Shampoo,,Beauty,,2 Poor packaging,a,Negative,52,3
+724 Jeans,,Beauty,,2 Worst purchase Negative,,33,25,
+725 Shampoo,,Home & Kitchen,,1 Horrible experie,n,Negative,57,46
+726 Headphones,,Home & Kitchen,2,Worst purchase Negative,,29,47,
+727 Headphones,,Home & Kitchen,1,"Terrible quality, lo",Negative,52,38,
+728 Face Cream,,Home & Kitchen,,1 Product arrived,d,Negative,38,16
+729 Yoga Mat,,Books,,1 Product arrived,d,Negative,60,18
+730 Coffee Maker,,Sports,,2 Product arrived,d,Negative,53,48
+731 Jeans,,Home & Kitchen,,1 Customer servi,ce,Negative,34,5
+732 Yoga Mat,,Electronics,,2 Extremely fragil,e,Negative,49,28
+733 Novel,,Home & Kitchen,,1 Product arrived,d,Negative,58,10
+734 Novel,,Sports,,2 Extremely fragil,e,Negative,23,15
+735 Laptop,,Home & Kitchen,,2 Not worth the pr,i,Negative,41,29
+736 Face Cream,,Books,,1 Customer servi,ce,Negative,44,24
+737 Headphones,,Clothing,,1 Worst purchase Negative,,37,39,
+738 Python Guide,,Clothing,,2 Customer servi,ce,Negative,42,10
+739 Headphones,,Sports,,1 Customer servi,ce,Negative,19,6
+740 Dumbbells,,Clothing,,2 Worst purchase Negative,,26,25,
+741 Dumbbells,,Clothing,,2 Customer servi,ce,Negative,45,21
+742 Headphones,,Electronics,,1 Very disappoint,e,Negative,55,24
+743 Dumbbells,,Sports,,2 Not worth the pr,i,Negative,20,18
+744 T-Shirt,,Sports,,2 Horrible experie,n,Negative,37,30
+745 Headphones,,Clothing,,1 Extremely fragil,e,Negative,23,25
+746 Laptop,,Clothing,,1 Very disappoint,e,Negative,56,41
+747 Yoga Mat,,Clothing,,2 Shipping took fo,r,Negative,50,40
+748 Novel,,Beauty,,1 Poor packaging,a,Negative,18,35
+749 Headphones,,Books,,1 Shipping took fo,r,Negative,54,22
+750 Headphones,,Home & Kitchen,2,Extremely fragile,Negative,23,46,
+751 Dumbbells,,Books,,1 Poor packaging,a,Negative,62,12
+752 Shampoo,,Sports,,2 Not worth the pr,i,Negative,51,24
+753 T-Shirt,,Electronics,,2 Horrible experie,n,Negative,64,1
+754 Jeans,,Home & Kitchen,,2 Horrible experie,n,Negative,32,1
+755 Python Guide,,Electronics,,2 Very disappoint,e,Negative,62,15
+756 Jeans,,Beauty,,2 Product arrived,d,Negative,43,8
+757 Python Guide,,Sports,,2 Shipping took fo,r,Negative,31,27
+758 Coffee Maker,,Beauty,,2 Extremely fragil,e,Negative,24,12
+759 Headphones,,Sports,,2 Worst purchase Negative,,63,34,
+760 T-Shirt,,Electronics,,2 Extremely fragil,e,Negative,48,40
+761 Blender,,Electronics,,2 Very disappoint,e,Negative,41,12
+762 Dumbbells,,Electronics,,1 Very disappoint,e,Negative,48,30
+763 Face Cream,,Sports,,1 Very disappoint,e,Negative,46,20
+764 Dumbbells,,Clothing,,1 Product arrived,d,Negative,59,31
+765 Novel,,Electronics,,2 Extremely fragil,e,Negative,49,33
+766 Yoga Mat,,Beauty,,2 Not worth the pr,i,Negative,34,7
+767 Novel,,Home & Kitchen,,1 Not worth the pr,i,Negative,31,40
+768 Yoga Mat,,Sports,,"2 Terrible quality, l",o,Negative,57,47
+769 Coffee Maker,,Beauty,,1 Extremely fragil,e,Negative,53,1
+770 Jeans,,Books,,2 Horrible experie,n,Negative,41,37
+771 Laptop,,Books,,2 Extremely fragil,e,Negative,62,31
+772 Headphones,,Home & Kitchen,2,Extremely fragile,Negative,44,39,
+773 Blender,,Clothing,,2 Worst purchase Negative,,42,27,
+774 Yoga Mat,,Electronics,,2 Horrible experie,n,Negative,49,36
+775 Face Cream,,Sports,,1 Customer servi,ce,Negative,35,40
+776 Yoga Mat,,Beauty,,Very disappointe,Negative,63,0,
+777 Shampoo,,Electronics,,2 Shipping took fo,r,Negative,35,40
+778 Laptop,,Beauty,,2 Poor packaging,a,Negative,54,9
+779 Shampoo,,Sports,,2 Customer servi,ce,Negative,43,3
+780 Novel,,Books,,"1 Terrible quality, l",o,Negative,26,34
+781 T-Shirt,,Electronics,,2 Product arrived,d,Negative,52,9
+782 Novel,,Home & Kitchen,,1 Shipping took fo,r,Negative,25,46
+783 Coffee Maker,,Clothing,,2 Horrible experie,n,Negative,37,10
+784 T-Shirt,,Home & Kitchen,,2 Poor packaging,a,Negative,59,13
+785 Novel,,Clothing,,"1 Terrible quality, l",o,Negative,39,37
+786 Face Cream,,Beauty,,2 Worst purchase Negative,,36,11,
+787 Dumbbells,,Electronics,,2 Customer servi,ce,Negative,47,44
+788 Novel,,Electronics,,1 Horrible experie,n,Negative,45,16
+789 Face Cream,,Clothing,,1 Not worth the pr,i,Negative,52,15
+790 Face Cream,,Books,,2 Horrible experie,n,Negative,60,34
+791 Dumbbells,,Sports,,1 Not worth the pr,i,Negative,28,1
+792 T-Shirt,,Home & Kitchen,,2 Very disappoint,e,Negative,48,10
+793 Jeans,,Beauty,,2 Shipping took fo,r,Negative,56,40
+794 Python Guide,,Home & Kitchen,2,Extremely fragile,Negative,53,2,
+795 Headphones,,Home & Kitchen,2,Shipping took for,Negative,47,28,
+796 Yoga Mat,,Beauty,,2 Customer servi,ce,Negative,40,17
+797 Python Guide,,Beauty,,2 Very disappoint,e,Negative,36,19
+798 Laptop,,Electronics,,2 Customer servi,ce,Negative,29,46
+799 Jeans,,Home & Kitchen,,1 Shipping took fo,r,Negative,32,13
+800 Python Guide,,Sports,,2 Product arrived,d,Negative,48,33
+801 T-Shirt,,Sports,,1 Customer servi,ce,Negative,60,48
+802 Laptop,,Clothing,,1 Customer servi,ce,Negative,54,30
+803 Blender,,Beauty,,"1 Terrible quality, l",o,Negative,54,39
+804 Jeans,,Electronics,,2 Not worth the pr,i,Negative,32,41
+805 Python Guide,,Sports,,2 Not worth the pr,i,Negative,46,17
+806 Laptop,,Books,,2 Worst purchase Negative,,60,29,
+807 Blender,,Electronics,,1 Extremely fragil,e,Negative,43,24
+808 Novel,,Electronics,,2 Extremely fragil,e,Negative,61,18
+809 Laptop,,Sports,,1 Poor packaging,a,Negative,19,7
+810 Shampoo,,Books,,1 Poor packaging,a,Negative,37,27
+811 Dumbbells,,Clothing,,2 Horrible experie,n,Negative,32,7
+812 T-Shirt,,Sports,,2 Horrible experie,n,Negative,21,30
+813 Novel,,Books,,2 Worst purchase Negative,,39,2,
+814 T-Shirt,,Electronics,,2 Poor packaging,a,Negative,55,2
+815 Python Guide,,Books,,2 Extremely fragil,e,Negative,40,43
+816 Headphones,,Electronics,,1 Not worth the pr,i,Negative,43,21
+817 Python Guide,,Sports,,1 Worst purchase Negative,,28,16,
+818 Novel,,Beauty,,"2 Terrible quality, l",o,Negative,45,35
+819 Face Cream,,Sports,,1 Customer servi,ce,Negative,19,16
+820 Python Guide,,Home & Kitchen,2,Not worth the pri,Negative,25,13,
+821 Novel,,Home & Kitchen,,2 Poor packaging,a,Negative,46,8
+822 Laptop,,Home & Kitchen,,2 Very disappoint,e,Negative,28,29
+823 Coffee Maker,,Sports,,2 Customer servi,ce,Negative,54,20
+824 Python Guide,,Clothing,,1 Poor packaging,a,Negative,35,11
+825 Laptop,,Sports,,1 Product arrived,d,Negative,31,36
+826 T-Shirt,,Beauty,,1 Product arrived,d,Negative,27,31
+827 Shampoo,,Books,,2 Not worth the pr,i,Negative,52,10
+828 Jeans,,Sports,,2 Customer servi,ce,Negative,26,19
+829 Headphones,,Sports,,1 Poor packaging,a,Negative,52,34
+830 T-Shirt,,Electronics,,"1 Terrible quality, l",o,Negative,28,46
+831 T-Shirt,,Electronics,,1 Worst purchase Negative,,61,45,
+832 Novel,,Electronics,,1 Horrible experie,n,Negative,29,10
+833 Face Cream,,Sports,,"1 Terrible quality, l",o,Negative,20,7
+834 Yoga Mat,,Clothing,,1 Shipping took fo,r,Negative,56,3
+835 Coffee Maker,,Books,,1 Extremely fragil,e,Negative,31,26
+836 Face Cream,,Books,,1 Worst purchase Negative,,45,43,
+837 Novel,,Beauty,,1 Worst purchase Negative,,28,39,
+838 Dumbbells,,Clothing,,2 Very disappoint,e,Negative,56,37
+839 Headphones,,Clothing,,1 Shipping took fo,r,Negative,42,46
+840 Coffee Maker,,Books,,1 Customer servi,ce,Negative,38,29
+841 Coffee Maker,,Home & Kitchen,1,Customer service,Negative,27,43,
+842 Novel,,Electronics,,"1 Terrible quality, l",o,Negative,60,47
+843 Blender,,Electronics,,2 Customer servi,ce,Negative,32,47
+844 T-Shirt,,Books,,1 Worst purchase Negative,,36,26,
+845 Shampoo,,Clothing,,1 Poor packaging,a,Negative,39,20
+846 Jeans,,Beauty,,2 Poor packaging,a,Negative,38,19
+847 Blender,,Home & Kitchen,,"2 Terrible quality, l",o,Negative,61,3
+848 Novel,,Books,,1 Product arrived,d,Negative,49,10
+849 Blender,,Electronics,,1 Product arrived,d,Negative,40,12
+850 Jeans,,Sports,,1 Shipping took fo,r,Negative,30,8
+851 Novel,,Clothing,,2 Product arrived,d,Negative,22,3
+852 Novel,,Sports,,2 Product arrived,d,Negative,21,11
+853 Coffee Maker,,Beauty,2,,Negative,45,8,
+854 Blender,,Books,,1 Very disappoint,e,Negative,31,12
+855 Laptop,,Electronics,,1 Product arrived,d,Negative,25,47
+856 Python Guide,,Home & Kitchen,2,Product arrived d,Negative,26,25,
+857 Novel,,Sports,,1 Customer servi,ce,Negative,52,37
+858 Blender,,Home & Kitchen,,"2 Terrible quality, l",o,Negative,54,41
+859 Yoga Mat,,Beauty,,1 Not worth the pr,i,Negative,38,12
+860 Headphones,,Electronics,,1 Poor packaging,a,Negative,35,38
+861 Yoga Mat,,Sports,,1 Horrible experie,n,Negative,50,27
+862 Blender,,Beauty,,1 Very disappoint,e,Negative,25,18
+863 T-Shirt,,Home & Kitchen,1,,Negative,34,23,
+864 T-Shirt,,Home & Kitchen,,1 Very disappoint,e,Negative,60,18
+865 Blender,,Sports,,2 Shipping took fo,r,Negative,48,48
+866 Coffee Maker,,Electronics,,2 Extremely fragil,e,Negative,51,12
+867 Coffee Maker,,Home & Kitchen,2,Poor packaging a,Negative,23,12,
+868 Novel,,Books,,2 Very disappoint,e,Negative,39,27
+869 Jeans,,Beauty,,1 Shipping took fo,r,Negative,31,1
+870 Python Guide,,Sports,,2 Very disappoint,e,Negative,20,9
+871 Novel,,Clothing,,2 Shipping took fo,r,Negative,29,21
+872 Yoga Mat,,Clothing,,2 Not worth the pr,i,Negative,53,12
+873 Dumbbells,,Electronics,,1 Worst purchase Negative,,29,8,
+874 Python Guide,,Books,1,,Negative,62,32,
+875 Yoga Mat,,Home & Kitchen,,2 Customer servi,ce,Negative,19,13
+876 Coffee Maker,,Clothing,,1 Customer servi,ce,Negative,19,47
+877 Blender,,Electronics,,1 Worst purchase Negative,,32,19,
+878 Jeans,,Beauty,,1 Worst purchase Negative,,40,14,
+879 Shampoo,,Books,,1 Product arrived,d,Negative,46,31
+880 Yoga Mat,,Books,,2 Shipping took fo,r,Negative,34,32
+881 Coffee Maker,,Electronics,,1 Poor packaging,a,Negative,49,16
+882 Shampoo,,Electronics,,2 Very disappoint,e,Negative,24,23
+883 Jeans,,Home & Kitchen,,1 Shipping took fo,r,Negative,47,29
+884 Novel,,Electronics,,"1 Terrible quality, l",o,Negative,45,12
+885 Blender,,Home & Kitchen,,1 Customer servi,ce,Negative,31,46
+886 Headphones,,Home & Kitchen,2,Not worth the pri,Negative,61,47,
+887 T-Shirt,,Sports,,2 Extremely fragil,e,Negative,47,15
+888 Face Cream,,Books,,"1 Terrible quality, l",o,Negative,34,1
+889 Jeans,,Beauty,,1 Customer servi,ce,Negative,49,16
+890 Shampoo,,Books,,2 Shipping took fo,r,Negative,63,31
+891 Headphones,,Books,,1 Product arrived,d,Negative,23,42
+892 Headphones,,Sports,,"2 Terrible quality, l",o,Negative,41,7
+893 Jeans,,Home & Kitchen,,1 Very disappoint,e,Negative,23,2
+894 Headphones,,Home & Kitchen,2,Not worth the pri,Negative,44,11,
+895 Yoga Mat,,Electronics,,1 Horrible experie,n,Negative,35,19
+896 Headphones,,Sports,,2 Customer servi,ce,Negative,41,15
+897 Coffee Maker,,Electronics,,1 Product arrived,d,Negative,54,13
+898 Python Guide,,Sports,,2 Very disappoint,e,Negative,41,15
+899 Yoga Mat,,Electronics,,1 Horrible experie,n,Negative,55,48
+900 Headphones,,Clothing,1,,Negative,51,42,
+901 Novel,,Books,,"2 Terrible quality, l",o,Negative,57,48
+902 T-Shirt,,Books,,1 Product arrived,d,Negative,64,32
+903 Blender,,Beauty,,2 Shipping took fo,r,Negative,32,29
+904 Shampoo,,Home & Kitchen,,1 Poor packaging,a,Negative,28,11
+905 Headphones,,Beauty,,2 Poor packaging,a,Negative,39,14
+906 Laptop,,Clothing,2,,Negative,41,17,
+907 T-Shirt,,Beauty,,1 Product arrived,d,Negative,18,27
+908 Novel,,Books,,"1 Terrible quality, l",o,Negative,35,22
+909 Coffee Maker,,Home & Kitchen,1,Worst purchase Negative,,61,13,
+910 Headphones,,Clothing,,2 Poor packaging,a,Negative,29,29
+911 Shampoo,,Books,,2 Very disappoint,e,Negative,60,32
+912 Coffee Maker,,Electronics,,1 Poor packaging,a,Negative,45,44
+913 Headphones,,Sports,,2 Extremely fragil,e,Negative,57,14
+914 Face Cream,,Clothing,,2 Product arrived,d,Negative,24,6
+915 Python Guide,,Home & Kitchen,2,Horrible experien,Negative,40,14,
+916 Coffee Maker,,Beauty,,1 Very disappoint,e,Negative,38,41
+917 Python Guide,,Beauty,,1 Very disappoint,e,Negative,51,45
+918 T-Shirt,,Clothing,,1 Worst purchase Negative,,28,37,
+919 Dumbbells,,Home & Kitchen,,1 Horrible experie,n,Negative,39,45
+920 Face Cream,,Clothing,,2 Horrible experie,n,Negative,59,43
+921 Blender,,Home & Kitchen,,2 Extremely fragil,e,Negative,52,10
+922 Yoga Mat,,Beauty,,2 Not worth the pr,i,Negative,46,28
+923 Python Guide,,Books,,2 Not worth the pr,i,Negative,59,30
+924 Face Cream,,Electronics,,2 Horrible experie,n,Negative,45,24
+925 Dumbbells,,Books,,1 Very disappoint,e,Negative,35,23
+926 Shampoo,,Electronics,,1 Not worth the pr,i,Negative,31,18
+927 Python Guide,,Beauty,,1 Customer servi,ce,Negative,35,1
+928 Jeans,,Books,,1 Worst purchase Negative,,45,21,
+929 Novel,,Books,,2 Shipping took fo,r,Negative,41,19
+930 Blender,,Clothing,,1 Customer servi,ce,Negative,25,32
+931 Novel,,Sports,,1 Customer servi,ce,Negative,59,7
+932 Shampoo,,Beauty,,1 Poor packaging,a,Negative,62,24
+933 Headphones,,Home & Kitchen,1,Poor packaging a,Negative,25,45,
+934 Python Guide,,Beauty,,2 Shipping took fo,r,Negative,21,8
+935 Headphones,,Home & Kitchen,2,Horrible experien,Negative,44,33,
+936 Laptop,,Home & Kitchen,,1 Not worth the pr,i,Negative,53,22
+937 Python Guide,,Electronics,,1 Very disappoint,e,Negative,22,4
+938 Face Cream,,Home & Kitchen,,1 Worst purchase Negative,,50,24,
+939 Blender,,Home & Kitchen,,2 Horrible experie,n,Negative,51,7
+940 Headphones,,Clothing,,Shipping took for,Negative,47,15,
+941 Python Guide,,Books,,"2 Terrible quality, l",o,Negative,25,47
+942 Laptop,,Beauty,,1 Worst purchase Negative,,56,44,
+943 Novel,,Beauty,,1 Worst purchase Negative,,64,14,
+944 Face Cream,,Home & Kitchen,,1 Horrible experie,n,Negative,43,0
+945 Jeans,,Sports,,2 Customer servi,ce,Negative,54,21
+946 Python Guide,,Beauty,,2 Customer servi,ce,Negative,51,2
+947 Jeans,,Home & Kitchen,,2 Very disappoint,e,Negative,24,37
+948 T-Shirt,,Electronics,,"2 Terrible quality, l",o,Negative,57,13
+949 Shampoo,,Electronics,,1 Very disappoint,e,Negative,45,35
+950 Blender,,Electronics,,2 Not worth the pr,i,Negative,56,17
+951 Python Guide,,Home & Kitchen,2,Very disappointe,Negative,56,46,
+952 Coffee Maker,,Clothing,,1 Customer servi,ce,Negative,45,40
+953 Laptop,,Sports,,2 Poor packaging,a,Negative,31,17
+954 Headphones,,Home & Kitchen,1,Extremely fragile,Negative,55,2,
+955 Dumbbells,,Clothing,,1 Product arrived,d,Negative,21,9
+956 Coffee Maker,,Clothing,,1 Horrible experie,n,Negative,59,48
+957 T-Shirt,,Beauty,,2 Very disappoint,e,Negative,35,38
+958 Blender,,Home & Kitchen,,1 Poor packaging,a,Negative,61,46
+959 Novel,,Home & Kitchen,,1 Worst purchase Negative,,42,0,
+960 Face Cream,,Clothing,,1 Worst purchase Negative,,24,26,
+961 Jeans,,Clothing,,Delivery was on Neutral,,55,26,
+962 T-Shirt,,Clothing,,3 Decent product. Neutral,,45,10,
+963 Headphones,,Beauty,,3 Decent product. Neutral,,22,48,
+964 Face Cream,,Home & Kitchen,,3 Decent product. Neutral,,20,4,
+965 Novel,,Clothing,,3 It works as desc,r,Neutral,61,6
+966 Headphones,,Electronics,,3 Product is functi,o,Neutral,48,18
+967 Laptop,,Home & Kitchen,,3 Product is okay. Neutral,,64,28,
+968 Jeans,,Beauty,,"3 Not great, not b",a,Neutral,59,14
+969 Dumbbells,,Electronics,,3 Standard qualit,y.,Neutral,37,34
+970 Coffee Maker,,Books,,3 Standard qualit,y.,Neutral,36,46
+971 Python Guide,,Home & Kitchen,3,Satisfactory purc,Neutral,28,36,
+972 T-Shirt,,Books,,"3 Not great, not b",a,Neutral,57,11
+973 Shampoo,,Clothing,,3 Delivery was on Neutral,,20,29,
+974 Python Guide,,Beauty,,3 Satisfactory pur,c,Neutral,40,19
+975 Dumbbells,,Clothing,,"3 Not great, not b",a,Neutral,24,36
+976 Face Cream,,Beauty,,3 Standard qualit,y.,Neutral,40,2
+977 Python Guide,,Sports,,3 Standard qualit,y.,Neutral,24,8
+978 Coffee Maker,,Clothing,,3 Satisfactory pur,c,Neutral,63,40
+979 Yoga Mat,,Books,,3 Average quality. Neutral,,51,38,
+980 Face Cream,,Beauty,,3 Decent product. Neutral,,59,25,
+981 Jeans,,Clothing,,3 Product is functi,o,Neutral,36,1
+982 Headphones,,Home & Kitchen,3,Average quality. Neutral,,26,22,
+983 Dumbbells,,Beauty,,3 It works as desc,r,Neutral,35,22
+984 Jeans,,Beauty,,3 Product is functi,o,Neutral,58,20
+985 Python Guide,,Clothing,,3 Fair product for,t,Neutral,62,15
+986 Blender,,Sports,,3 Standard qualit,y.,Neutral,59,8
+987 Face Cream,,Clothing,,3 Decent product. Neutral,,42,12,
+988 Dumbbells,,Books,,3 Delivery was on Neutral,,31,27,
+989 Headphones,,Books,,3 Satisfactory pur,c,Neutral,61,26
+990 Novel,,Beauty,,3 Delivery was on Neutral,,42,16,
+991 Laptop,,Beauty,,3 Standard qualit,y.,Neutral,36,37
+992 Jeans,,Clothing,,3 Product is okay. Neutral,,56,35,
+993 Jeans,,Books,,3 It works as desc,r,Neutral,32,0
+994 Face Cream,,Books,,3 Standard qualit,y.,Neutral,33,17
+995 Blender,,Sports,,3 Product is okay. Neutral,,44,8,
+996 Python Guide,,Home & Kitchen,3,Average quality. Neutral,,57,12,
+997 Dumbbells,,Sports,,3 Standard qualit,y.,Neutral,27,39
+998 Python Guide,,Electronics,,3 Product is okay. Neutral,,21,44,
+999 Face Cream,,Sports,,"3 Not great, not b",a,Neutral,36,14
+1000 Jeans,,Clothing,,3 Decent product. Neutral,,45,42,
+1001 Headphones,,Home & Kitchen,3,"Not great, not ba",Neutral,38,43,
+1002 Dumbbells,,Clothing,,3 Fair product for,t,Neutral,64,45
+1003 Laptop,,Electronics,,3 Delivery was on Neutral,,31,3,
+1004 Dumbbells,,Home & Kitchen,3,,Neutral,50,32,
+1005 Face Cream,,Beauty,,3 Fair product for,t,Neutral,27,23
+1006 Headphones,,Books,,3 Product is okay. Neutral,,36,35,
+1007 Shampoo,,Sports,,3 Product is functi,o,Neutral,47,40
+1008 Headphones,,Clothing,,3 It works as desc,r,Neutral,39,9
+1009 Novel,,Electronics,,3 Satisfactory pur,c,Neutral,20,35
+1010 Dumbbells,,Books,,"3 Not great, not b",a,Neutral,54,19
+1011 Dumbbells,,Sports,,3 Standard qualit,y.,Neutral,58,40
+1012 Coffee Maker,,Books,,3 Fair product for,t,Neutral,35,44
+1013 Yoga Mat,,Sports,,3 Standard qualit,y.,Neutral,28,43
+1014 Laptop,,Beauty,,3 Delivery was on Neutral,,19,10,
+1015 T-Shirt,,Home & Kitchen,,3 Fair product for,t,Neutral,29,11
+1016 Blender,,Books,,"3 Not great, not b",a,Neutral,23,17
+1017 Yoga Mat,,Books,,3 Product is functi,o,Neutral,60,29
+1018 Novel,,Books,,3 Delivery was on Neutral,,57,43,
+1019 Dumbbells,,Home & Kitchen,,3 Satisfactory pur,c,Neutral,61,47
+1020 Laptop,,Electronics,,3 Satisfactory pur,c,Neutral,46,36
+1021 Python Guide,,Sports,,3 Standard qualit,y.,Neutral,47,19
+1022 Yoga Mat,,Beauty,,3 Satisfactory pur,c,Neutral,19,24
+1023 Python Guide,,Books,,3 Satisfactory pur,c,Neutral,26,11
+1024 Blender,,Home & Kitchen,,3 It works as desc,r,Neutral,64,20
+1025 Python Guide,,Electronics,,3 Product is functi,o,Neutral,19,24
+1026 Blender,,Sports,,3 Delivery was on Neutral,,46,10,
+1027 Laptop,,Home & Kitchen,,3 Satisfactory pur,c,Neutral,50,8
+1028 Shampoo,,Beauty,,3 Product is okay. Neutral,,27,49,
+1029 Jeans,,Beauty,,3 Satisfactory pur,c,Neutral,51,24
+1030 Blender,,Sports,,3 Decent product. Neutral,,61,34,
+1031 Headphones,,Books,3,,Neutral,25,31,
+1032 T-Shirt,,Beauty,,3 Standard qualit,y.,Neutral,54,48
+1033 T-Shirt,,Electronics,,3 Product is functi,o,Neutral,50,13
+1034 Face Cream,,Home & Kitchen,,3 Product is functi,o,Neutral,64,0
+1035 T-Shirt,,Electronics,,3 Average quality. Neutral,,23,16,
+1036 Face Cream,,Books,,"3 Not great, not b",a,Neutral,61,24
+1037 Dumbbells,,Electronics,,3 Product is functi,o,Neutral,57,7
+1038 T-Shirt,,Electronics,,3 Decent product. Neutral,,62,4,
+1039 Blender,,Clothing,,3 It works as desc,r,Neutral,36,4
+1040 Headphones,,Electronics,,3 Fair product for,t,Neutral,49,40
+1041 Jeans,,Sports,,3 Decent product. Neutral,,44,34,
+1042 Python Guide,,Home & Kitchen,3,Standard quality.,Neutral,18,18,
+1043 Novel,,Clothing,,"3 Not great, not b",a,Neutral,60,22
+1044 T-Shirt,,Home & Kitchen,3,,Neutral,50,8,
+1045 Jeans,,Home & Kitchen,,3 Standard qualit,y.,Neutral,57,29
+1046 Jeans,,Books,,3 Average quality. Neutral,,49,49,
+1047 Blender,,Books,,3 Fair product for,t,Neutral,22,15
+1048 Laptop,,Clothing,,3 Satisfactory pur,c,Neutral,34,32
+1049 Laptop,,Beauty,,3 Product is okay. Neutral,,25,1,
+1050 T-Shirt,,Books,,3 It works as desc,r,Neutral,59,13
+1051 Shampoo,,Books,,3 Average quality. Neutral,,51,45,
+1052 Novel,,Books,,3 Product is functi,o,Neutral,26,0
+1053 T-Shirt,,Home & Kitchen,,3 Product is okay. Neutral,,40,25,
+1054 T-Shirt,,Clothing,,3 Delivery was on Neutral,,52,24,
+1055 Face Cream,,Home & Kitchen,,3 Average quality. Neutral,,24,15,
+1056 Headphones,,Sports,,3 Satisfactory pur,c,Neutral,32,14
+1057 Headphones,,Home & Kitchen,3,Product is functio,Neutral,37,25,
+1058 Novel,,Sports,,3 It works as desc,r,Neutral,42,46
+1059 Face Cream,,Electronics,,3 Satisfactory pur,c,Neutral,20,43
+1060 Jeans,,Electronics,,3 Delivery was on Neutral,,63,15,
+1061 Dumbbells,,Sports,,"3 Not great, not b",a,Neutral,41,13
+1062 Face Cream,,Sports,,3 Decent product. Neutral,,51,28,
+1063 T-Shirt,,Home & Kitchen,,3 Decent product. Neutral,,63,23,
+1064 Laptop,,Sports,,3 It works as desc,r,Neutral,39,46
+1065 Yoga Mat,,Clothing,,3 Product is okay. Neutral,,28,14,
+1066 Novel,,Electronics,,3 Average quality. Neutral,,25,18,
+1067 Jeans,,Electronics,,3 Product is functi,o,Neutral,56,7
+1068 Blender,,Beauty,,3 Average quality. Neutral,,60,33,
+1069 Yoga Mat,,Sports,,"3 Not great, not b",a,Neutral,52,1
+1070 Yoga Mat,,Books,,3 Decent product. Neutral,,63,26,
+1071 Face Cream,,Books,,3 Delivery was on Neutral,,55,9,
+1072 Python Guide,,Sports,,3 It works as desc,r,Neutral,25,34
+1073 Yoga Mat,,Clothing,,3 Satisfactory pur,c,Neutral,54,22
+1074 T-Shirt,,Books,,"3 Not great, not b",a,Neutral,44,48
+1075 Coffee Maker,,Beauty,,3 Standard qualit,y.,Neutral,45,7
+1076 Laptop,,Sports,,3 Delivery was on Neutral,,57,27,
+1077 Dumbbells,,Clothing,,3 Standard qualit,y.,Neutral,51,22
+1078 Laptop,,Clothing,,3 Product is functi,o,Neutral,49,3
+1079 Coffee Maker,,Home & Kitchen,3,Product is functio,Neutral,32,13,
+1080 Headphones,,Clothing,,3 It works as desc,r,Neutral,61,41
+1081 T-Shirt,,Books,,"3 Not great, not b",a,Neutral,34,28
+1082 Blender,,Books,,3 It works as desc,r,Neutral,50,0
+1083 Yoga Mat,,Sports,,3 Standard qualit,y.,Neutral,64,3
+1084 Headphones,,Sports,,3 Satisfactory pur,c,Neutral,63,31
+1085 T-Shirt,,Clothing,,3 Decent product. Neutral,,33,32,
+1086 Face Cream,,Beauty,,3 Standard qualit,y.,Neutral,46,48
+1087 Laptop,,Electronics,,3 It works as desc,r,Neutral,26,25
+1088 Headphones,,Home & Kitchen,3,Standard quality.,Neutral,50,16,
+1089 Novel,,Electronics,,"3 Not great, not b",a,Neutral,46,38
+1090 Yoga Mat,,Clothing,,3 Product is functi,o,Neutral,30,22
+1091 Yoga Mat,,Clothing,,3 Product is okay. Neutral,,38,31,
+1092 Blender,,Electronics,,3 Delivery was on Neutral,,38,14,
+1093 Python Guide,,Home & Kitchen,3,Average quality. Neutral,,22,12,
+1094 Novel,,Electronics,,3 Decent product. Neutral,,27,1,
+1095 Yoga Mat,,Sports,,3 Decent product. Neutral,,23,18,
+1096 Jeans,,Books,,3 Decent product. Neutral,,30,23,
+1097 Novel,,Beauty,,3 Standard qualit,y.,Neutral,18,44
+1098 Yoga Mat,,Sports,,3 Average quality. Neutral,,37,23,
+1099 Coffee Maker,,Books,,3 Satisfactory pur,c,Neutral,64,10
+1100 Novel,,Beauty,,3 Satisfactory pur,c,Neutral,63,21
+1101 T-Shirt,,Beauty,,3 Standard qualit,y.,Neutral,25,14
+1102 Novel,,Beauty,,3 It works as desc,r,Neutral,27,9
+1103 Dumbbells,,Clothing,,3 Satisfactory pur,c,Neutral,26,40
+1104 Blender,,Beauty,,3 It works as desc,r,Neutral,58,26
+1105 Face Cream,,Home & Kitchen,,3 It works as desc,r,Neutral,20,8
+1106 Face Cream,,Electronics,,3 It works as desc,r,Neutral,28,27
+1107 Face Cream,,Home & Kitchen,,3 Delivery was on Neutral,,29,0,
+1108 T-Shirt,,Electronics,,3 Satisfactory pur,c,Neutral,27,16
+1109 Headphones,,Sports,,3 Standard qualit,y.,Neutral,42,30
+1110 Face Cream,,Sports,3,,Neutral,42,43,
+1111 Dumbbells,,Electronics,,3 Standard qualit,y.,Neutral,28,9
+1112 Laptop,,Home & Kitchen,,"3 Not great, not b",a,Neutral,53,36
+1113 T-Shirt,,Electronics,,3 Satisfactory pur,c,Neutral,56,28
+1114 Headphones,,Beauty,,3 Fair product for,t,Neutral,43,17
+1115 Laptop,,Clothing,,3 Product is okay. Neutral,,31,46,
+1116 Laptop,,Sports,,3 Delivery was on Neutral,,56,37,
+1117 Laptop,,Clothing,,3 It works as desc,r,Neutral,57,38
+1118 Jeans,,Beauty,,"3 Not great, not b",a,Neutral,18,48
+1119 Blender,,Beauty,,3 Satisfactory pur,c,Neutral,21,5
+1120 Blender,,Sports,,3 Product is okay. Neutral,,47,39,
+1121 T-Shirt,,Sports,,3 Decent product. Neutral,,29,11,
+1122 Dumbbells,,Beauty,,3 Fair product for,t,Neutral,52,13
+1123 Dumbbells,,Books,,3 Standard qualit,y.,Neutral,30,43
+1124 Dumbbells,,Clothing,,3 Decent product. Neutral,,48,9,
+1125 Laptop,,Clothing,,3 Product is okay. Neutral,,55,19,
+1126 Shampoo,,Books,,3 Delivery was on Neutral,,60,14,
+1127 Coffee Maker,,Home & Kitchen,3,Standard quality.,Neutral,40,30,
+1128 Novel,,Clothing,,3 Delivery was on Neutral,,21,6,
+1129 Headphones,,Electronics,,3 Product is okay. Neutral,,33,40,
+1130 Blender,,Beauty,,3 Delivery was on Neutral,,24,9,
+1131 Shampoo,,Beauty,,3 Satisfactory pur,c,Neutral,39,9
+1132 Face Cream,,Books,,3 Product is okay. Neutral,,46,47,
+1133 T-Shirt,,Clothing,,3 Fair product for,t,Neutral,28,38
+1134 Headphones,,Home & Kitchen,3,Product is functio,Neutral,50,27,
+1135 T-Shirt,,Clothing,,3 Product is functi,o,Neutral,46,29
+1136 Coffee Maker,,Beauty,,3 It works as desc,r,Neutral,56,36
+1137 Jeans,,Sports,,3 It works as desc,r,Neutral,29,2
+1138 Jeans,,Electronics,,3 It works as desc,r,Neutral,24,49
+1139 Laptop,,Books,,3 Delivery was on Neutral,,56,42,
+1140 Jeans,,Sports,,3 It works as desc,r,Neutral,59,14
+1141 T-Shirt,,Home & Kitchen,,3 Fair product for,t,Neutral,43,20
+1142 Face Cream,,Sports,,3 Standard qualit,y.,Neutral,57,36
+1143 Laptop,,Sports,,3 Standard qualit,y.,Neutral,26,11
+1144 Yoga Mat,,Home & Kitchen,,3 Fair product for,t,Neutral,58,3
+1145 Dumbbells,,Sports,,"3 Not great, not b",a,Neutral,51,46
+1146 Headphones,,Books,,3 Product is functi,o,Neutral,62,8
+1147 Coffee Maker,,Beauty,,"3 Not great, not b",a,Neutral,30,38
+1148 Laptop,,Clothing,,3 Average quality. Neutral,,53,41,
+1149 T-Shirt,,Sports,,3 Satisfactory pur,c,Neutral,42,27
+1150 Headphones,,Books,,3 Delivery was on Neutral,,41,22,
+1151 Face Cream,,Clothing,,3 Product is functi,o,Neutral,61,44
+1152 Python Guide,,Clothing,,3 Decent product. Neutral,,34,39,
+1153 Coffee Maker,,Sports,,3 Product is okay. Neutral,,19,43,
+1154 T-Shirt,,Books,,3 Standard qualit,y.,Neutral,30,21
+1155 Coffee Maker,,Beauty,,"3 Not great, not b",a,Neutral,48,23
+1156 Blender,,Sports,,3 Average quality. Neutral,,46,25,
+1157 Python Guide,,Home & Kitchen,3,Product is functio,Neutral,45,29,
+1158 Headphones,,Clothing,,3 Fair product for,t,Neutral,44,32
+1159 Jeans,,Sports,,Average quality. Neutral,,32,15,
+1160 T-Shirt,,Clothing,,3 Delivery was on Neutral,,48,21,
+1161 Coffee Maker,,Books,,3 Standard qualit,y.,Neutral,57,48
+1162 Headphones,,Electronics,,3 Satisfactory pur,c,Neutral,32,49
+1163 Jeans,,Sports,,3 Fair product for,t,Neutral,50,42
+1164 Face Cream,,Beauty,,"3 Not great, not b",a,Neutral,37,17
+1165 Face Cream,,Sports,,3 Satisfactory pur,c,Neutral,59,6
+1166 Coffee Maker,,Clothing,,3 Satisfactory pur,c,Neutral,29,49
+1167 Laptop,,Books,,3 Product is functi,o,Neutral,54,25
+1168 Blender,,Home & Kitchen,,3 Satisfactory pur,c,Neutral,26,7
+1169 Laptop,,Beauty,,3 It works as desc,r,Neutral,40,5
+1170 Blender,,Books,,3 Fair product for,t,Neutral,25,29
+1171 T-Shirt,,Sports,,3 Delivery was on Neutral,,49,38,
+1172 Dumbbells,,Home & Kitchen,,3 Product is okay. Neutral,,31,22,
+1173 Yoga Mat,,Books,,3 Decent product. Neutral,,44,31,
+1174 Coffee Maker,,Electronics,,3 It works as desc,r,Neutral,42,21
+1175 Novel,,Beauty,,3 Product is okay. Neutral,,30,41,
+1176 Dumbbells,,Clothing,,3 Product is okay. Neutral,,38,42,
+1177 Shampoo,,Books,,3 Decent product. Neutral,,62,44,
+1178 Coffee Maker,,Books,,3 Satisfactory pur,c,Neutral,48,8
+1179 Python Guide,,Electronics,,3 It works as desc,r,Neutral,54,30
+1180 Jeans,,Sports,,"3 Not great, not b",a,Neutral,60,6
+1181 Python Guide,,Beauty,,3 Fair product for,t,Neutral,22,8
+1182 Face Cream,,Beauty,,"3 Not great, not b",a,Neutral,30,12
+1183 Blender,,Clothing,,3 Decent product. Neutral,,45,2,
+1184 Jeans,,Books,,3 Decent product. Neutral,,60,34,
+1185 Dumbbells,,Home & Kitchen,,3 Fair product for,t,Neutral,42,32
+1186 Face Cream,,Books,,3 Delivery was on Neutral,,52,20,
+1187 Jeans,,Clothing,,3 Average quality. Neutral,,64,30,
+1188 Laptop,,Books,,3 It works as desc,r,Neutral,56,33
+1189 Face Cream,,Electronics,,"3 Not great, not b",a,Neutral,24,31
+1190 Laptop,,Books,,3 Standard qualit,y.,Neutral,55,34
+1191 Laptop,,Books,,"3 Not great, not b",a,Neutral,49,14
+1192 Jeans,,Home & Kitchen,,3 Product is functi,o,Neutral,20,31
+1193 Headphones,,Electronics,,3 Fair product for,t,Neutral,62,5
+1194 Python Guide,,Electronics,,3 Delivery was on Neutral,,56,44,
+1195 Face Cream,,Books,,3 Decent product. Neutral,,54,20,
+1196 Novel,,Beauty,,3 Decent product. Neutral,,39,32,
+1197 Headphones,,Home & Kitchen,3,It works as descr,Neutral,25,31,
+1198 Shampoo,,Books,,3 Satisfactory pur,c,Neutral,34,18
+1199 Python Guide,,Books,,3 Average quality. Neutral,,44,32,
+1200 Face Cream,,Clothing,,3 Delivery was on Neutral,,50,27,
+637 Dumbbells,,Sports,,1 Extremely fragil,e,Negative,37,48
+684 Face Cream,,Electronics,,2 Product arrived,d,Negative,31,29
+1034 Face Cream,,Home & Kitchen,,3 Product is functi,o,Neutral,64,0
+191 Shampoo,,Clothing,,5 Great value for,m,Positive,21,38
+1084 Headphones,,Sports,,3 Satisfactory pur,c,Neutral,63,31
+284 Coffee Maker,,Clothing,,5 Great value for,m,Positive,35,19
+818 Novel,,Beauty,,"2 Terrible quality, l",o,Negative,45,35
+315 Shampoo,,Beauty,,4 Best purchase I Positive,,49,47,
+538 Shampoo,,Sports,,5 Fantastic produ,c,Positive,46,24
+665 Novel,,Beauty,,Shipping took for,Negative,24,36,
+240 Blender,,Beauty,,5 Excellent build,q,Positive,50,10
+136 Laptop,,Books,,4 Super happy wit,h,Positive,64,47
+336 Python Guide,,Sports,,5 Amazing quality Positive,,26,11,
+190 Yoga Mat,,Sports,,5 Super happy wit,h,Positive,49,33
+839 Headphones,,Clothing,,1 Shipping took fo,r,Negative,42,46
+322 Blender,,Sports,,4 Outstanding cu,st,Positive,43,16
+1147 Coffee Maker,,Beauty,,"3 Not great, not b",a,Neutral,30,38
+229 Laptop,,Electronics,,4 Excellent build,q,Positive,38,27
+481 Dumbbells,,Beauty,,4 Great value for,m,Positive,42,16
+1044 T-Shirt,,Home & Kitchen,3,,Neutral,50,8,
+1007 Shampoo,,Sports,,3 Product is functi,o,Neutral,47,40
+307 Face Cream,,Books,,4 Excellent build,q,Positive,51,26
+1093 Python Guide,,Home & Kitchen,3,Average quality. Neutral,,22,12,
+569 Yoga Mat,,Sports,,5 Great value for,m,Positive,47,5
+221 Yoga Mat,,Clothing,,5 Excellent build,q,Positive,38,42
+832 Novel,,Electronics,,1 Horrible experie,n,Negative,29,10
+582 Python Guide,,Electronics,,5 Great value for,m,Positive,47,35
+199 Jeans,,Books,,4 Excellent build,q,Positive,47,36
+917 Python Guide,,Beauty,,1 Very disappoint,e,Negative,51,45
+456 Jeans,,Home & Kitchen,,4 The product is d,u,Positive,45,42
